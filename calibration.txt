@@ -1,0 +1,2485 @@
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera1', 'camera2', 'camera3', 'camera4', 'camera5'] with 0 matching images
+INFO - Loading images..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera1', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 162 images
+INFO - {'camera0': (1920, 1200), 'camera1': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera1': 0, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 27 matching images
+INFO - Loading images..
+INFO - Loaded 135 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 2402, cameras: {'camera0': 326, 'camera2': 140, 'camera3': 1047, 'camera4': 262, 'camera5': 627}, Boards: {'charuco': 2402}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera0, with RMS=59.58
+INFO - Camera {'dist': array([[   6.0832,   30.5925,    1.8515,    0.7456, -481.8683]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[2212.6522,    0.    ,  993.4365],
+              [   0.    ,  495.6013,  554.5248],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera2, with RMS=37.96
+INFO - Camera {'dist': array([[    49.0031,    -66.6622,     -2.7116,     -4.5386, -34531.4097]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 502.2455,    0.    , 1002.8866],
+              [   0.    , 3995.4285,  314.4584],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera3, with RMS=53.98
+INFO - Camera {'dist': array([[ 0.0214, -0.1486,  0.0496,  0.0998, -0.0779]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 524.9579,    0.    ,  841.6971],
+              [   0.    , 2815.3458,  493.077 ],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera4, with RMS=188.88
+INFO - Camera {'dist': array([[-0.0485,  0.0004,  0.0128, -0.0004, -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[3506.1759,    0.    ,  959.5   ],
+              [   0.    ,   68.7974,  599.4949],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera5, with RMS=144.84
+INFO - Camera {'dist': array([[-0.0114, -0.0001,  0.001 , -0.0064, -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 130.6336,    0.    ,  908.3555],
+              [   0.    , 1832.466 ,  600.3887],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 47, cameras: {'camera0': 6, 'camera2': 2, 'camera3': 19, 'camera4': 5, 'camera5': 15}, Boards: {'charuco': 47}
+INFO - Overlaps by camera:
+INFO - [[  0.  22.  55.   0. 103.]
+        [ 22.   0.  46.   0.  23.]
+        [ 55.  46.   0.  71. 314.]
+        [  0.   0.  71.   0.  21.]
+        [103.  23. 314.  21.   0.]]
+INFO - Selected master 2 and pairs [(2, 4), (4, 0), (2, 3), (2, 1)]
+INFO - Estimate transform axis=0, pair (2, 4), inliers 11/11
+INFO - RMS (frobius): 2.9785 (2.9785) (deg): 127.4126 (127.4126) (trans): 1.7594 (1.7594)
+INFO - [[ 0.9592 -0.1546 -0.2367 -0.1964]
+        [ 0.1861  0.9755  0.1171 -0.2885]
+        [ 0.2128 -0.1564  0.9645 -2.2213]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (4, 0), inliers 3/3
+INFO - RMS (frobius): 2.3282 (2.3282) (deg): 68.6429 (68.6429) (trans): 1.0649 (1.0649)
+INFO - [[ 0.1746 -0.9667 -0.1872  0.1151]
+        [ 0.9641  0.1293  0.2317  0.0479]
+        [-0.1998 -0.2209  0.9546 -0.0365]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (2, 3), inliers 3/3
+INFO - RMS (frobius): 2.8971 (2.8971) (deg): 86.9754 (86.9754) (trans): 1.8832 (1.8832)
+INFO - [[ 0.9871 -0.1474 -0.063   0.1984]
+        [ 0.154   0.981   0.1183  0.2814]
+        [ 0.0444 -0.1264  0.991  -0.7607]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (2, 1), inliers 2/2
+INFO - RMS (frobius): 2.0025 (2.0025) (deg): 124.8427 (124.8427) (trans): 0.8062 (0.8062)
+INFO - [[ 0.5689  0.8222  0.0159 -0.9266]
+        [ 0.7642 -0.5214 -0.3796  0.5851]
+        [-0.3038  0.2281 -0.925   3.9763]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Initialisation reprojection RMS=12299706715840563606817079296.000, n=2402, quantiles=[1.1769e+00 5.7758e+01 3.3517e+02 1.0792e+03 6.0281e+29]
+INFO - Beginning adjustments (3) enabled: {cameras=True, boards=False, camera_poses=True, board_poses=True, motion=True}, options: {'loss': 'linear', 'tolerance': 0.0001}
+INFO - Adjust_outliers 0: reprojection RMS=12299706715840563606817079296.000, n=2402, quantiles=[1.1769e+00 5.7758e+01 3.3517e+02 1.0792e+03 6.0281e+29]
+INFO - Rejecting 274 outliers with error > 5395.90 pixels, keeping 2128 / 2402 inliers, (88.59%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         1.0659e+09                                    7.23e+12
+INFO - 1              3         4.8996e+08      5.76e+08       2.31e+03       5.76e+13
+INFO - 2              4         4.2404e+07      4.48e+08       3.88e+03       9.59e+11
+INFO - 3              7         3.7322e+07      5.08e+06       2.42e+02       4.08e+11
+INFO - 4              8         3.2214e+07      5.11e+06       4.64e+02       7.87e+10
+INFO - 5              9         3.0597e+07      1.62e+06       7.69e+02       5.66e+10
+INFO - 6             10         2.6978e+07      3.62e+06       6.21e+02       6.14e+10
+INFO - 7             12         2.6309e+07      6.69e+05       1.37e+02       5.20e+10
+INFO - 8             13         2.5565e+07      7.44e+05       3.31e+02       3.67e+10
+INFO - 9             15         2.5002e+07      5.63e+05       1.06e+02       3.89e+10
+INFO - 10             16         2.4469e+07      5.34e+05       2.35e+02       2.33e+10
+INFO - 11             17         2.4015e+07      4.53e+05       3.46e+02       1.74e+10
+INFO - 12             18         2.3348e+07      6.67e+05       7.83e+02       1.14e+10
+INFO - 13             19         2.2989e+07      3.59e+05       2.47e+03       1.72e+11
+INFO - 14             21         2.2308e+07      6.81e+05       7.70e+02       2.31e+11
+INFO - 15             22         2.2064e+07      2.44e+05       1.35e+03       1.13e+12
+INFO - 16             24         2.1895e+07      1.69e+05       3.81e+02       1.30e+12
+INFO - 17             25         2.1582e+07      3.13e+05       8.63e+02       2.71e+12
+INFO - 18             27         2.1485e+07      9.77e+04       3.62e+02       2.17e+11
+INFO - 19             28         2.1288e+07      1.96e+05       8.13e+02       4.03e+11
+INFO - 20             29         2.1070e+07      2.18e+05       1.33e+03       4.49e+12
+INFO - 21             31         2.0937e+07      1.33e+05       6.51e+02       9.61e+11
+INFO - 22             32         2.0731e+07      2.07e+05       1.29e+03       1.19e+12
+INFO - 23             33         2.0456e+07      2.75e+05       2.24e+03       3.79e+12
+INFO - 24             35         2.0245e+07      2.10e+05       1.05e+03       1.99e+12
+INFO - 25             36         1.9883e+07      3.62e+05       2.09e+03       3.39e+11
+INFO - 26             37         1.9646e+07      2.37e+05       4.11e+03       7.40e+12
+INFO - 27             38         1.7910e+07      1.74e+06       3.28e+03       3.33e+13
+INFO - 28             40         1.6762e+07      1.15e+06       2.89e+03       1.35e+12
+INFO - 29             41         1.6178e+07      5.85e+05       1.63e+03       2.69e+12
+INFO - 30             42         1.5685e+07      4.93e+05       8.45e+02       3.28e+11
+INFO - 31             43         1.5167e+07      5.18e+05       7.73e+02       1.16e+10
+INFO - 32             45         1.4911e+07      2.56e+05       2.58e+01       6.33e+10
+INFO - 33             46         1.4642e+07      2.69e+05       5.13e+01       5.71e+10
+INFO - 34             47         1.4640e+07      1.60e+03       5.00e+01       3.62e+10
+INFO - 35             48         1.4407e+07      2.33e+05       2.42e+01       2.67e+10
+INFO - 36             49         1.4358e+07      4.93e+04       2.64e+01       1.34e+10
+INFO - 37             50         1.4320e+07      3.83e+04       3.03e+01       2.59e+10
+INFO - 38             51         1.4274e+07      4.53e+04       2.94e+01       2.56e+10
+INFO - 39             52         1.4200e+07      7.41e+04       3.43e+01       3.15e+10
+INFO - 40             53         1.4164e+07      3.62e+04       3.05e+01       2.87e+10
+INFO - 41             54         1.4114e+07      4.98e+04       3.31e+01       2.56e+10
+INFO - 42             55         1.4079e+07      3.49e+04       3.00e+01       3.07e+10
+INFO - 43             56         1.3994e+07      8.56e+04       3.22e+01       1.26e+10
+INFO - 44             57         1.3946e+07      4.80e+04       6.36e+01       1.25e+10
+INFO - 45             59         1.3923e+07      2.30e+04       1.61e+01       1.66e+09
+INFO - 46             60         1.3862e+07      6.09e+04       1.82e+01       2.95e+10
+INFO - 47             61         1.3860e+07      1.90e+03       3.30e+01       1.18e+09
+INFO - 48             62         1.3818e+07      4.26e+04       8.48e+00       1.34e+10
+INFO - 49             63         1.3800e+07      1.77e+04       1.79e+01       1.20e+10
+INFO - 50             64         1.3783e+07      1.67e+04       1.73e+01       1.26e+10
+INFO - 51             65         1.3769e+07      1.41e+04       1.81e+01       1.43e+10
+INFO - 52             66         1.3752e+07      1.74e+04       1.87e+01       1.31e+10
+INFO - 53             67         1.3738e+07      1.32e+04       1.89e+01       1.40e+10
+INFO - 54             68         1.3724e+07      1.41e+04       1.91e+01       1.22e+10
+INFO - 55             69         1.3714e+07      1.03e+04       1.95e+01       1.35e+10
+INFO - 56             70         1.3697e+07      1.66e+04       1.99e+01       9.90e+09
+INFO - 57             71         1.3688e+07      9.88e+03       1.98e+01       1.15e+10
+INFO - 58             72         1.3672e+07      1.58e+04       1.96e+01       1.00e+10
+INFO - 59             73         1.3661e+07      1.03e+04       1.97e+01       1.06e+10
+INFO - 60             74         1.3654e+07      7.65e+03       1.88e+01       9.55e+09
+INFO - 61             75         1.3615e+07      3.89e+04       7.10e+00       3.59e+09
+INFO - 62             76         1.3606e+07      8.97e+03       9.93e+00       2.23e+09
+INFO - 63             77         1.3596e+07      9.83e+03       1.11e+01       1.94e+09
+INFO - 64             78         1.3583e+07      1.35e+04       1.80e+01       1.15e+09
+INFO - 65             79         1.3571e+07      1.17e+04       3.53e+01       4.04e+09
+INFO - 66             80         1.3550e+07      2.10e+04       3.51e+01       5.66e+09
+INFO - 67             81         1.3516e+07      3.40e+04       3.57e+01       3.79e+09
+INFO - 68             83         1.3505e+07      1.10e+04       1.64e+01       2.66e+09
+INFO - 69             84         1.3495e+07      9.87e+03       1.73e+01       6.55e+09
+INFO - 70             86         1.3489e+07      6.37e+03       3.97e+00       6.48e+09
+INFO - 71             87         1.3478e+07      1.05e+04       1.09e+01       4.95e+09
+INFO - 72             88         1.3469e+07      9.33e+03       9.99e+00       3.53e+09
+INFO - 73             89         1.3461e+07      7.40e+03       9.25e+00       4.06e+09
+INFO - 74             90         1.3454e+07      6.87e+03       8.69e+00       4.36e+09
+INFO - 75             91         1.3448e+07      6.65e+03       8.91e+00       4.75e+09
+INFO - 76             92         1.3440e+07      7.67e+03       8.52e+00       4.00e+09
+INFO - 77             93         1.3433e+07      6.69e+03       8.13e+00       4.39e+09
+INFO - 78             94         1.3427e+07      6.66e+03       7.52e+00       4.51e+09
+INFO - 79             95         1.3420e+07      6.24e+03       7.66e+00       4.77e+09
+INFO - 80             96         1.3413e+07      7.34e+03       7.20e+00       4.07e+09
+INFO - 81             97         1.3407e+07      6.43e+03       6.92e+00       4.25e+09
+INFO - 82             98         1.3395e+07      1.15e+04       1.27e+01       4.10e+09
+INFO - 83             99         1.3376e+07      1.94e+04       2.54e+01       3.74e+09
+INFO - 84             100        1.3346e+07      3.02e+04       4.73e+01       2.82e+10
+INFO - The maximum number of function evaluations is exceeded.
+INFO - Function evaluations 100, initial cost 1.0659e+09, final cost 1.3346e+07, first-order optimality 2.82e+10.
+INFO - Adjust_outliers 1: reprojection RMS=111.995 (83512297696123184.000), n=2128 (2402), quantiles=[6.5666e-01 4.6332e+01 8.0603e+01 1.3754e+02 4.0929e+18]
+INFO - Rejecting 100 outliers with error > 687.71 pixels, keeping 2302 / 2402 inliers, (95.84%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         2.0283e+07                                    2.38e+11
+INFO - 1              5         1.8034e+07      2.25e+06       7.45e+01       2.36e+11
+INFO - 2              6         1.6978e+07      1.06e+06       2.65e+02       3.12e+11
+INFO - 3              7         1.5771e+07      1.21e+06       8.10e+01       2.24e+12
+INFO - 4             10         1.5693e+07      7.83e+04       2.82e+00       2.66e+12
+INFO - 5             11         1.5623e+07      7.04e+04       1.68e+01       1.71e+11
+INFO - 6             12         1.5574e+07      4.88e+04       1.22e+01       4.04e+11
+INFO - 7             13         1.5506e+07      6.75e+04       1.57e+01       3.10e+11
+INFO - 8             14         1.5398e+07      1.09e+05       2.50e+01       4.39e+11
+INFO - 9             15         1.5362e+07      3.58e+04       4.20e+01       8.69e+11
+INFO - 10             16         1.5291e+07      7.12e+04       2.18e+01       2.50e+11
+INFO - 11             17         1.5160e+07      1.30e+05       1.93e+00       1.06e+11
+INFO - 12             18         1.5100e+07      6.02e+04       5.96e+00       1.27e+10
+INFO - 13             19         1.5033e+07      6.72e+04       1.31e+01       1.98e+11
+INFO - 14             20         1.4902e+07      1.31e+05       1.72e+01       4.45e+11
+INFO - 15             21         1.4738e+07      1.64e+05       4.18e+01       3.53e+10
+INFO - 16             22         1.4671e+07      6.73e+04       5.29e+01       7.04e+10
+INFO - 17             24         1.4630e+07      4.10e+04       1.42e+01       9.31e+11
+INFO - 18             25         1.4486e+07      1.44e+05       4.37e+00       3.88e+11
+INFO - 19             26         1.4464e+07      2.20e+04       7.06e+00       1.69e+11
+INFO - 20             27         1.4434e+07      2.93e+04       8.99e+00       2.16e+11
+INFO - 21             28         1.4389e+07      4.54e+04       1.41e+01       1.66e+11
+INFO - 22             30         1.4365e+07      2.41e+04       5.69e+00       3.22e+11
+INFO - 23             31         1.4325e+07      4.00e+04       1.42e+01       1.13e+11
+INFO - 24             33         1.4295e+07      2.94e+04       6.74e+00       3.95e+11
+INFO - 25             34         1.4251e+07      4.45e+04       1.38e+01       2.96e+10
+INFO - 26             36         1.4232e+07      1.94e+04       5.17e+00       1.72e+11
+INFO - 27             37         1.4225e+07      6.31e+03       1.37e+01       6.96e+10
+INFO - 28             38         1.4166e+07      5.92e+04       1.26e+01       7.77e+09
+INFO - 29             39         1.4141e+07      2.54e+04       1.25e+01       1.40e+11
+INFO - 30             40         1.4121e+07      1.97e+04       1.24e+01       7.01e+10
+INFO - 31             41         1.4112e+07      9.26e+03       1.34e+01       1.33e+11
+INFO - 32             42         1.4075e+07      3.65e+04       4.89e+00       5.43e+10
+INFO - 33             43         1.4068e+07      7.10e+03       3.43e+00       1.03e+11
+INFO - 34             44         1.4059e+07      8.62e+03       3.99e+00       9.43e+10
+INFO - 35             45         1.4048e+07      1.10e+04       4.00e+00       1.55e+11
+INFO - 36             46         1.4031e+07      1.70e+04       3.90e+00       7.92e+10
+INFO - 37             47         1.4001e+07      3.03e+04       5.88e+00       5.97e+10
+INFO - 38             48         1.3987e+07      1.44e+04       1.13e+01       3.88e+11
+INFO - 39             50         1.3960e+07      2.67e+04       3.23e+00       3.79e+11
+INFO - 40             51         1.3938e+07      2.20e+04       7.52e+00       3.40e+11
+INFO - 41             52         1.3919e+07      1.85e+04       7.09e+00       1.48e+11
+INFO - 42             53         1.3904e+07      1.51e+04       5.07e+00       2.01e+11
+INFO - 43             54         1.3881e+07      2.38e+04       7.00e+00       5.55e+10
+INFO - 44             56         1.3867e+07      1.34e+04       3.54e+00       4.29e+11
+INFO - 45             57         1.3848e+07      1.95e+04       6.57e+00       3.86e+10
+INFO - 46             59         1.3840e+07      8.18e+03       1.91e+00       2.72e+11
+INFO - 47             60         1.3823e+07      1.69e+04       4.93e+00       8.38e+10
+INFO - 48             61         1.3820e+07      2.84e+03       6.09e+00       3.02e+11
+INFO - 49             62         1.3795e+07      2.50e+04       6.83e+00       6.62e+10
+INFO - 50             63         1.3777e+07      1.83e+04       5.77e+00       3.37e+11
+INFO - 51             64         1.3764e+07      1.21e+04       4.13e+00       8.34e+10
+INFO - 52             65         1.3762e+07      2.51e+03       5.62e+00       2.69e+11
+INFO - 53             66         1.3741e+07      2.09e+04       4.40e+00       9.64e+10
+INFO - 54             67         1.3734e+07      6.68e+03       1.59e+00       7.97e+09
+INFO - 55             68         1.3721e+07      1.36e+04       3.49e+00       1.46e+11
+INFO - 56             69         1.3708e+07      1.28e+04       4.62e+00       4.24e+10
+INFO - 57             71         1.3690e+07      1.78e+04       3.22e+00       3.67e+10
+INFO - 58             72         1.3676e+07      1.38e+04       3.62e+00       1.43e+11
+INFO - 59             74         1.3668e+07      8.33e+03       1.48e+00       1.74e+11
+INFO - 60             75         1.3649e+07      1.85e+04       4.35e+00       1.27e+11
+INFO - 61             76         1.3623e+07      2.61e+04       4.69e+00       1.03e+10
+INFO - 62             78         1.3614e+07      9.82e+03       1.81e+00       5.26e+10
+INFO - 63             79         1.3602e+07      1.17e+04       3.96e+00       1.16e+10
+INFO - 64             80         1.3600e+07      1.59e+03       4.49e+00       7.49e+10
+INFO - 65             81         1.3570e+07      3.01e+04       3.93e+00       3.90e+09
+INFO - 66             82         1.3558e+07      1.23e+04       1.52e+00       7.16e+09
+INFO - 67             83         1.3540e+07      1.84e+04       2.10e+00       4.62e+10
+INFO - 68             84         1.3515e+07      2.44e+04       3.57e+00       1.39e+11
+INFO - 69             86         1.3502e+07      1.27e+04       1.85e+00       7.38e+10
+INFO - 70             87         1.3480e+07      2.30e+04       4.35e+00       2.59e+11
+INFO - 71             89         1.3463e+07      1.63e+04       2.03e+00       2.40e+10
+INFO - 72             90         1.3446e+07      1.69e+04       3.17e+00       3.39e+11
+INFO - 73             91         1.3430e+07      1.67e+04       3.70e+00       4.18e+11
+INFO - 74             93         1.3424e+07      5.07e+03       1.05e+00       3.04e+11
+INFO - 75             94         1.3418e+07      6.64e+03       2.78e+00       2.02e+11
+INFO - 76             96         1.3415e+07      3.06e+03       6.59e-01       1.71e+11
+INFO - 77             97         1.3408e+07      6.42e+03       2.31e+00       1.46e+11
+INFO - 78             98         1.3400e+07      8.11e+03       1.98e+00       1.34e+11
+INFO - 79             100        1.3395e+07      4.84e+03       9.52e-01       6.05e+10
+INFO - The maximum number of function evaluations is exceeded.
+INFO - Function evaluations 100, initial cost 2.0283e+07, final cost 1.3395e+07, first-order optimality 6.05e+10.
+INFO - Adjust_outliers 2: reprojection RMS=107.880 (6186301009.978), n=2302 (2402), quantiles=[5.2429e-01 4.5097e+01 7.5971e+01 1.2082e+02 2.5989e+11]
+INFO - Rejecting 30 outliers with error > 604.08 pixels, keeping 2372 / 2402 inliers, (98.75%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         1.9976e+07                                    2.05e+12
+INFO - 1              4         1.8647e+07      1.33e+06       1.98e+01       2.39e+13
+INFO - 2              5         1.5160e+07      3.49e+06       7.13e+01       4.78e+12
+INFO - 3              6         1.4742e+07      4.18e+05       3.11e+01       1.48e+12
+INFO - 4              7         1.4516e+07      2.26e+05       4.80e+01       6.29e+11
+INFO - 5              9         1.4438e+07      7.80e+04       6.16e+00       3.51e+11
+INFO - 6             10         1.4386e+07      5.22e+04       1.03e+01       1.15e+09
+INFO - 7             12         1.4345e+07      4.09e+04       2.84e+00       7.82e+10
+INFO - 8             13         1.4321e+07      2.43e+04       5.07e+00       7.93e+10
+INFO - 9             15         1.4314e+07      6.66e+03       1.16e+00       5.52e+10
+INFO - 10             16         1.4308e+07      5.78e+03       1.77e+00       7.42e+10
+INFO - 11             17         1.4302e+07      5.75e+03       2.25e+00       4.70e+10
+INFO - 12             18         1.4293e+07      8.97e+03       3.57e+00       5.16e+10
+INFO - 13             19         1.4278e+07      1.59e+04       7.10e+00       2.33e+10
+INFO - 14             20         1.4251e+07      2.70e+04       1.38e+01       5.82e+09
+INFO - 15             21         1.4202e+07      4.85e+04       2.62e+01       1.19e+11
+INFO - 16             22         1.4129e+07      7.31e+04       4.57e+01       2.19e+11
+INFO - 17             23         1.4040e+07      8.91e+04       4.07e+01       5.15e+11
+INFO - 18             25         1.3985e+07      5.44e+04       1.58e+01       1.66e+11
+INFO - 19             26         1.3924e+07      6.12e+04       2.62e+01       3.43e+12
+INFO - 20             27         1.3862e+07      6.18e+04       3.67e+01       1.31e+12
+INFO - 21             28         1.3861e+07      1.33e+03       3.62e+01       2.26e+12
+INFO - 22             31         1.3829e+07      3.18e+04       1.99e+00       1.57e+11
+INFO - 23             32         1.3781e+07      4.84e+04       4.05e+00       6.32e+11
+INFO - 24             33         1.3768e+07      1.23e+04       4.23e+00       4.49e+11
+INFO - 25             34         1.3757e+07      1.15e+04       3.93e+00       8.47e+11
+INFO - 26             36         1.3748e+07      8.84e+03       1.09e+00       7.69e+11
+INFO - 27             37         1.3742e+07      6.54e+03       1.67e+00       2.20e+11
+INFO - 28             38         1.3738e+07      4.04e+03       2.31e+00       1.70e+11
+INFO - 29             40         1.3736e+07      1.90e+03       4.70e-01       1.92e+11
+INFO - 30             41         1.3733e+07      2.60e+03       8.12e-01       2.83e+10
+INFO - 31             42         1.3731e+07      2.28e+03       1.02e+00       5.25e+10
+INFO - 32             44         1.3730e+07      4.86e+02       3.02e-01       2.43e+10
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 44, initial cost 1.9976e+07, final cost 1.3730e+07, first-order optimality 2.43e+10.
+INFO - Adjust_outliers end: reprojection RMS=107.597 (327319023.670), n=2372 (2402), quantiles=[1.5290e+00 4.4043e+01 7.5665e+01 1.1732e+02 1.4718e+10]
+INFO - Exporting calibration to .\calibration.json
+INFO - Dumping state and history to .\calibration.pkl
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera_1', 'camera_2', 'camera_3', 'camera_4', 'camera_5', 'camera_6'] with 0 matching images
+INFO - Loading images..
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera_1', 'camera_3', 'camera_4', 'camera_5', 'camera_6'] with 249 matching images
+INFO - Restricting to 200 images (--limit_images)
+INFO - Loading images..
+INFO - Loaded 1000 images
+INFO - {'camera_1': (1920, 1200), 'camera_3': (1920, 1200), 'camera_4': (1920, 1200), 'camera_5': (1920, 1200), 'camera_6': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 17772, cameras: {'camera_1': 2188, 'camera_3': 0, 'camera_4': 8830, 'camera_5': 1974, 'camera_6': 4780}, Boards: {'charuco': 17772}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera_1', 'camera_2', 'camera_4', 'camera_5', 'camera_6'] with 249 matching images
+INFO - Restricting to 200 images (--limit_images)
+INFO - Loading images..
+INFO - Loaded 1000 images
+INFO - {'camera_1': (1920, 1200), 'camera_2': (1920, 1200), 'camera_4': (1920, 1200), 'camera_5': (1920, 1200), 'camera_6': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 17989, cameras: {'camera_1': 2233, 'camera_2': 0, 'camera_4': 8883, 'camera_5': 2012, 'camera_6': 4861}, Boards: {'charuco': 17989}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera_1', 'camera_4', 'camera_5', 'camera_6'] with 249 matching images
+INFO - Restricting to 200 images (--limit_images)
+INFO - Loading images..
+INFO - Loaded 800 images
+INFO - {'camera_1': (1920, 1200), 'camera_4': (1920, 1200), 'camera_5': (1920, 1200), 'camera_6': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 18004, cameras: {'camera_1': 2200, 'camera_4': 8927, 'camera_5': 2054, 'camera_6': 4823}, Boards: {'charuco': 18004}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera_1, with RMS=41.49
+INFO - Camera {'dist': array([[-0.1158, -0.1939,  0.0465,  0.0306,  0.1208]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1082.5638,    0.    , 1023.4692],
+              [   0.    ,  162.2618,  570.9262],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_4, with RMS=86.95
+INFO - Camera {'dist': array([[-0.0301,  0.0001,  0.0006, -0.0024,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[  78.6953,    0.    ,  959.4959],
+              [   0.    , 2972.7168,  599.5003],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_5, with RMS=43.36
+INFO - Camera {'dist': array([[ 0.5623, -0.0187, -0.4358,  0.0353, -0.0041]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[4126.9294,    0.    ,  888.5883],
+              [   0.    ,  190.746 ,  673.9012],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_6, with RMS=47.47
+INFO - Camera {'dist': array([[-0.0207,  0.0001,  0.0033, -0.0044, -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 65.0682,   0.    , 959.5078],
+              [  0.    , 389.3123, 599.4966],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 382, cameras: {'camera_1': 3, 'camera_4': 195, 'camera_5': 3, 'camera_6': 181}, Boards: {'charuco': 382}
+INFO - Overlaps by camera:
+INFO - [[   0.   62.    0.   62.]
+        [  62.    0.   62. 4404.]
+        [   0.   62.    0.   62.]
+        [  62. 4404.   62.    0.]]
+INFO - Selected master 1 and pairs [(1, 3), (1, 0), (1, 2)]
+INFO - Estimate transform axis=0, pair (1, 3), inliers 167/176
+INFO - RMS (frobius): 2.5187 (2.7156) (deg): 104.2139 (107.2951) (trans): 1.3398 (1.4386)
+INFO - [[ 0.9196  0.1926 -0.3425  2.3641]
+        [-0.1642  0.9803  0.1102 -0.5754]
+        [ 0.357  -0.0451  0.933  -1.7543]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (1, 0), inliers 3/3
+INFO - RMS (frobius): 2.2276 (2.2276) (deg): 83.9681 (83.9681) (trans): 2.2084 (2.2084)
+INFO - [[ 0.9327 -0.3313  0.1424 -0.3349]
+        [ 0.1674  0.048  -0.9847  1.6633]
+        [ 0.3194  0.9423  0.1003  0.3778]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (1, 2), inliers 3/3
+INFO - RMS (frobius): 0.6155 (0.6155) (deg): 14.6897 (14.6897) (trans): 0.2596 (0.2596)
+INFO - [[ 0.0082  0.3958  0.9183 -2.9968]
+        [-0.9291  0.3426 -0.1394 -0.9786]
+        [-0.3698 -0.852   0.3706 -1.5389]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Initialisation reprojection RMS=72039758691819784765440.000, n=18004, quantiles=[3.5892e-01 3.2982e+01 7.4482e+01 4.2302e+02 7.2618e+24]
+INFO - Beginning adjustments (3) enabled: {cameras=True, boards=False, camera_poses=True, board_poses=True, motion=True}, options: {'loss': 'linear', 'tolerance': 0.0001}
+INFO - Adjust_outliers 0: reprojection RMS=72039758691819784765440.000, n=18004, quantiles=[3.5892e-01 3.2982e+01 7.4482e+01 4.2302e+02 7.2618e+24]
+INFO - Rejecting 4179 outliers with error > 2115.08 pixels, keeping 13825 / 18004 inliers, (76.79%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         2.6740e+08                                    9.38e+14
+INFO - 1              6         2.2792e+08      3.95e+07       1.06e+02       5.56e+14
+INFO - 2              7         1.7292e+08      5.50e+07       2.40e+02       2.59e+14
+INFO - 3              8         1.1415e+08      5.88e+07       5.01e+02       6.64e+13
+INFO - 4              9         5.7182e+07      5.70e+07       1.14e+03       5.37e+12
+INFO - 5             11         4.3183e+07      1.40e+07       5.85e+02       3.11e+12
+INFO - 6             12         3.0526e+07      1.27e+07       1.24e+03       1.86e+12
+INFO - 7             14         2.9376e+07      1.15e+06       9.11e+01       1.95e+12
+INFO - 8             16         2.8662e+07      7.14e+05       1.32e+02       5.18e+12
+INFO - 9             21         2.8641e+07      2.15e+04       1.30e+00       5.36e+12
+INFO - 10             22         2.8612e+07      2.85e+04       3.27e+00       4.64e+12
+INFO - 11             23         2.8568e+07      4.42e+04       8.21e+00       3.00e+12
+INFO - 12             24         2.8501e+07      6.66e+04       2.00e+01       1.40e+12
+INFO - 13             25         2.8389e+07      1.12e+05       4.19e+01       6.63e+11
+INFO - 14             26         2.8193e+07      1.97e+05       7.91e+01       3.38e+11
+INFO - 15             27         2.7872e+07      3.21e+05       1.24e+02       1.55e+10
+INFO - 16             32         2.7867e+07      4.82e+03       7.12e-01       1.87e+10
+INFO - 17             33         2.7861e+07      5.50e+03       1.71e+00       1.26e+10
+INFO - 18             34         2.7851e+07      9.97e+03       3.64e+00       2.86e+10
+INFO - 19             35         2.7833e+07      1.87e+04       7.39e+00       6.35e+10
+INFO - 20             36         2.7796e+07      3.63e+04       1.43e+01       7.42e+10
+INFO - 21             37         2.7726e+07      7.09e+04       2.60e+01       5.62e+10
+INFO - 22             38         2.7592e+07      1.34e+05       4.25e+01       8.51e+10
+INFO - 23             40         2.7531e+07      6.04e+04       1.64e+01       5.83e+11
+INFO - 24             41         2.7408e+07      1.24e+05       2.15e+01       3.26e+10
+INFO - 25             42         2.7178e+07      2.30e+05       4.78e+01       1.87e+10
+INFO - 26             43         2.6906e+07      2.72e+05       4.48e+01       6.01e+11
+INFO - 27             44         2.6405e+07      5.00e+05       5.57e+01       3.02e+11
+INFO - 28             45         2.5752e+07      6.54e+05       6.55e+01       4.06e+11
+INFO - 29             46         2.4608e+07      1.14e+06       1.23e+02       1.93e+10
+INFO - 30             49         2.4397e+07      2.11e+05       2.90e+01       2.86e+11
+INFO - 31             51         2.4263e+07      1.34e+05       4.26e+01       3.73e+11
+INFO - 32             52         2.4040e+07      2.23e+05       5.29e+01       4.06e+11
+INFO - 33             53         2.3665e+07      3.74e+05       5.91e+01       3.54e+11
+INFO - 34             55         2.3485e+07      1.81e+05       2.77e+01       5.98e+11
+INFO - 35             57         2.3384e+07      1.01e+05       2.14e+01       5.76e+11
+INFO - 36             58         2.3176e+07      2.07e+05       4.94e+01       5.18e+11
+INFO - 37             59         2.2818e+07      3.59e+05       6.06e+01       5.04e+11
+INFO - 38             63         2.2806e+07      1.20e+04       3.77e+00       5.03e+11
+INFO - 39             64         2.2787e+07      1.91e+04       5.40e+00       5.00e+11
+INFO - 40             65         2.2757e+07      2.97e+04       1.15e+01       4.76e+11
+INFO - 41             66         2.2701e+07      5.64e+04       2.18e+01       4.44e+11
+INFO - 42             67         2.2589e+07      1.12e+05       3.94e+01       4.14e+11
+INFO - 43             68         2.2358e+07      2.30e+05       6.53e+01       4.24e+11
+INFO - 44             69         2.1970e+07      3.88e+05       8.72e+01       3.32e+11
+INFO - 45             70         2.1438e+07      5.32e+05       1.15e+02       3.12e+11
+INFO - 46             72         2.1104e+07      3.34e+05       4.71e+01       2.11e+11
+INFO - 47             73         2.0955e+07      1.49e+05       1.23e+02       2.54e+11
+INFO - 48             75         2.0610e+07      3.45e+05       4.04e+01       9.73e+10
+INFO - 49             76         2.0454e+07      1.56e+05       6.57e+01       8.58e+11
+INFO - 50             77         2.0354e+07      9.99e+04       4.05e+01       1.19e+13
+INFO - 51             79         2.0259e+07      9.48e+04       1.49e+01       4.18e+12
+INFO - 52             81         2.0227e+07      3.26e+04       5.61e+00       3.45e+12
+INFO - 53             82         2.0191e+07      3.57e+04       1.12e+01       2.71e+12
+INFO - 54             83         2.0157e+07      3.39e+04       3.94e+00       3.04e+12
+INFO - 55             84         2.0084e+07      7.32e+04       8.38e+00       2.78e+12
+INFO - 56             85         1.9988e+07      9.56e+04       5.82e+00       2.06e+12
+INFO - 57             87         1.9951e+07      3.67e+04       2.86e+00       1.70e+12
+INFO - 58             88         1.9890e+07      6.16e+04       5.62e+00       4.43e+12
+INFO - 59             89         1.9783e+07      1.07e+05       1.15e+01       7.51e+12
+INFO - 60             91         1.9709e+07      7.44e+04       2.60e+00       4.25e+12
+INFO - 61             92         1.9630e+07      7.88e+04       7.50e+00       4.77e+12
+INFO - 62             94         1.9594e+07      3.60e+04       3.80e+00       5.52e+12
+INFO - 63             96         1.9567e+07      2.69e+04       5.24e+00       5.21e+12
+INFO - 64             97         1.9538e+07      2.88e+04       9.60e+00       3.82e+12
+INFO - 65             98         1.9517e+07      2.06e+04       2.17e+00       3.84e+12
+INFO - 66             99         1.9492e+07      2.56e+04       1.73e+00       3.72e+12
+INFO - 67             100        1.9483e+07      9.17e+03       1.77e+00       5.17e+12
+INFO - The maximum number of function evaluations is exceeded.
+INFO - Function evaluations 100, initial cost 2.6740e+08, final cost 1.9483e+07, first-order optimality 5.17e+12.
+INFO - Adjust_outliers 1: reprojection RMS=53.089 (6361060023589876951569924096.000), n=13825 (18004), quantiles=[2.0193e+00 3.0649e+01 5.3510e+01 8.9137e+01 8.5352e+29]
+INFO - Rejecting 1148 outliers with error > 445.69 pixels, keeping 16856 / 18004 inliers, (93.62%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         5.3693e+07                                    7.08e+11
+INFO - 1              6         4.5686e+07      8.01e+06       6.72e+00       4.96e+12
+INFO - 2              7         3.6238e+07      9.45e+06       1.93e+01       3.65e+13
+INFO - 3              8         2.7808e+07      8.43e+06       4.16e+01       1.25e+13
+INFO - 4             10         2.6799e+07      1.01e+06       1.34e+01       1.35e+13
+INFO - 5             12         2.6413e+07      3.85e+05       4.90e+00       1.09e+13
+INFO - 6             13         2.6075e+07      3.38e+05       1.03e+01       3.13e+12
+INFO - 7             15         2.6002e+07      7.33e+04       7.08e+00       9.19e+12
+INFO - 8             16         2.5964e+07      3.75e+04       1.45e+01       1.13e+12
+INFO - 9             18         2.5859e+07      1.05e+05       1.93e+00       3.53e+12
+INFO - 10             19         2.5811e+07      4.78e+04       2.25e+00       1.45e+12
+INFO - 11             20         2.5759e+07      5.20e+04       3.17e+00       1.99e+12
+INFO - 12             21         2.5682e+07      7.75e+04       5.77e+00       1.46e+12
+INFO - 13             22         2.5572e+07      1.09e+05       1.10e+01       1.63e+12
+INFO - 14             24         2.5514e+07      5.76e+04       5.39e+00       2.90e+12
+INFO - 15             25         2.5388e+07      1.26e+05       1.13e+01       1.98e+12
+INFO - 16             27         2.5320e+07      6.87e+04       4.39e+00       4.69e+12
+INFO - 17             29         2.5277e+07      4.25e+04       2.47e+00       8.70e+11
+INFO - 18             31         2.5251e+07      2.58e+04       1.17e+00       2.10e+12
+INFO - 19             32         2.5168e+07      8.36e+04       3.21e+00       1.79e+12
+INFO - 20             34         2.5151e+07      1.72e+04       7.94e-01       2.53e+12
+INFO - 21             36         2.5130e+07      2.09e+04       6.95e-01       1.23e+12
+INFO - 22             37         2.5100e+07      2.97e+04       1.40e+00       9.57e+11
+INFO - 23             38         2.5067e+07      3.26e+04       1.09e+00       1.14e+12
+INFO - 24             39         2.5028e+07      3.97e+04       2.26e+00       9.40e+11
+INFO - 25             40         2.4966e+07      6.19e+04       4.33e+00       1.44e+12
+INFO - 26             42         2.4940e+07      2.58e+04       1.77e+00       1.65e+12
+INFO - 27             43         2.4875e+07      6.53e+04       4.22e+00       1.32e+12
+INFO - 28             45         2.4842e+07      3.26e+04       1.47e+00       2.88e+12
+INFO - 29             46         2.4780e+07      6.20e+04       3.02e+00       9.99e+11
+INFO - 30             47         2.4698e+07      8.17e+04       5.52e+00       1.68e+12
+INFO - 31             51         2.4660e+07      3.83e+04       7.89e-01       5.62e+12
+INFO - 32             52         2.4606e+07      5.43e+04       3.85e+00       4.40e+11
+INFO - 33             53         2.4578e+07      2.78e+04       2.34e+00       1.11e+12
+INFO - 34             54         2.4541e+07      3.68e+04       1.50e+00       9.05e+11
+INFO - 35             55         2.4476e+07      6.51e+04       2.32e+00       6.56e+11
+INFO - 36             57         2.4449e+07      2.73e+04       1.21e+00       1.41e+12
+INFO - 37             58         2.4380e+07      6.90e+04       3.83e+00       1.40e+12
+INFO - 38             61         2.4362e+07      1.83e+04       7.54e-01       4.24e+11
+INFO - 39             62         2.4348e+07      1.32e+04       4.51e+00       1.58e+12
+INFO - 40             63         2.4281e+07      6.77e+04       6.37e+00       6.54e+11
+INFO - 41             64         2.4272e+07      8.92e+03       4.41e+00       4.25e+12
+INFO - 42             65         2.4230e+07      4.20e+04       2.74e+00       1.81e+12
+INFO - 43             66         2.4216e+07      1.41e+04       1.81e+00       9.89e+11
+INFO - 44             67         2.4200e+07      1.54e+04       1.22e+00       8.64e+11
+INFO - 45             68         2.4180e+07      2.00e+04       2.23e+00       9.14e+11
+INFO - 46             69         2.4162e+07      1.79e+04       3.37e+00       1.26e+12
+INFO - 47             71         2.4139e+07      2.37e+04       1.54e+00       1.24e+12
+INFO - 48             72         2.4125e+07      1.36e+04       2.28e+00       9.26e+11
+INFO - 49             73         2.4107e+07      1.78e+04       2.35e+00       9.28e+11
+INFO - 50             74         2.4086e+07      2.07e+04       3.22e+00       9.25e+11
+INFO - 51             75         2.4070e+07      1.65e+04       4.90e+00       3.99e+12
+INFO - 52             77         2.4041e+07      2.86e+04       1.42e+00       8.84e+11
+INFO - 53             78         2.4023e+07      1.84e+04       1.99e+00       1.30e+12
+INFO - 54             79         2.4005e+07      1.83e+04       2.33e+00       4.68e+11
+INFO - 55             80         2.3981e+07      2.33e+04       3.50e+00       1.40e+12
+INFO - 56             81         2.3936e+07      4.57e+04       6.62e+00       2.21e+12
+INFO - 57             82         2.3887e+07      4.86e+04       5.87e+00       2.07e+12
+INFO - 58             83         2.3837e+07      5.00e+04       1.07e+01       5.59e+12
+INFO - 59             85         2.3771e+07      6.59e+04       2.69e+00       3.14e+12
+INFO - 60             87         2.3749e+07      2.17e+04       1.10e+00       1.40e+12
+INFO - 61             89         2.3735e+07      1.46e+04       7.29e-01       2.53e+12
+INFO - 62             90         2.3734e+07      6.65e+02       1.93e+00       7.97e+11
+INFO - 63             91         2.3702e+07      3.27e+04       7.43e-01       1.36e+12
+INFO - 64             92         2.3692e+07      9.32e+03       7.23e-01       2.25e+11
+INFO - 65             94         2.3688e+07      4.59e+03       3.40e-01       9.60e+11
+INFO - 66             95         2.3683e+07      4.69e+03       3.61e-01       1.41e+11
+INFO - 67             96         2.3676e+07      7.31e+03       7.30e-01       2.03e+11
+INFO - 68             98         2.3673e+07      3.08e+03       2.88e-01       1.36e+12
+INFO - 69             99         2.3669e+07      3.97e+03       3.86e-01       2.45e+11
+INFO - 70             100        2.3663e+07      5.16e+03       5.96e-01       6.44e+11
+INFO - The maximum number of function evaluations is exceeded.
+INFO - Function evaluations 100, initial cost 5.3693e+07, final cost 2.3663e+07, first-order optimality 6.44e+11.
+INFO - Adjust_outliers 2: reprojection RMS=52.988 (1602289072037042398953472.000), n=16856 (18004), quantiles=[3.3502e-01 2.4869e+01 4.4680e+01 6.6094e+01 2.1498e+26]
+INFO - Rejecting 683 outliers with error > 330.47 pixels, keeping 17321 / 18004 inliers, (96.21%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         2.6983e+07                                    1.34e+12
+INFO - 1              7         2.6497e+07      4.87e+05       5.48e-01       5.59e+11
+INFO - 2              8         2.5802e+07      6.95e+05       1.45e+00       3.29e+11
+INFO - 3              9         2.5141e+07      6.61e+05       4.00e+00       1.63e+11
+INFO - 4             10         2.4961e+07      1.81e+05       1.01e+01       2.23e+13
+INFO - 5             12         2.4746e+07      2.14e+05       1.96e+00       1.88e+12
+INFO - 6             13         2.4662e+07      8.41e+04       4.42e+00       2.76e+12
+INFO - 7             14         2.4632e+07      3.02e+04       1.42e+00       9.84e+11
+INFO - 8             16         2.4608e+07      2.41e+04       3.18e-01       3.67e+12
+INFO - 9             17         2.4598e+07      9.34e+03       7.28e-01       8.51e+11
+INFO - 10             19         2.4582e+07      1.66e+04       9.81e-02       7.56e+11
+INFO - 11             20         2.4574e+07      7.80e+03       2.54e-01       5.85e+11
+INFO - 12             21         2.4564e+07      1.00e+04       5.00e-01       1.44e+12
+INFO - 13             22         2.4550e+07      1.37e+04       9.90e-01       6.16e+11
+INFO - 14             23         2.4535e+07      1.50e+04       1.32e+00       8.35e+11
+INFO - 15             24         2.4511e+07      2.44e+04       2.20e+00       2.40e+12
+INFO - 16             25         2.4498e+07      1.29e+04       1.74e+00       3.35e+11
+INFO - 17             26         2.4484e+07      1.38e+04       3.43e+00       1.96e+11
+INFO - 18             27         2.4466e+07      1.79e+04       6.16e-01       3.65e+11
+INFO - 19             29         2.4460e+07      6.18e+03       1.05e-01       4.80e+11
+INFO - 20             30         2.4456e+07      4.27e+03       1.81e-01       3.61e+11
+INFO - 21             31         2.4450e+07      5.82e+03       3.64e-01       1.08e+12
+INFO - 22             32         2.4445e+07      5.45e+03       3.72e-01       3.01e+11
+INFO - 23             34         2.4442e+07      2.52e+03       5.66e-02       6.67e+11
+INFO - 24             35         2.4441e+07      1.58e+03       9.56e-02       1.73e+11
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 35, initial cost 2.6983e+07, final cost 2.4441e+07, first-order optimality 1.73e+11.
+INFO - Adjust_outliers end: reprojection RMS=53.123 (127971966725634572288.000), n=17321 (18004), quantiles=[2.3432e-01 2.5007e+01 4.4383e+01 6.5057e+01 1.7171e+22]
+INFO - Exporting calibration to .\calibration.json
+INFO - Dumping state and history to .\calibration.pkl
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera1', 'camera2', 'camera3', 'camera4', 'camera5'] with 62 matching images
+INFO - Loading images..
+INFO - Loaded 372 images
+INFO - {'camera0': (1920, 1200), 'camera1': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 4300, cameras: {'camera0': 554, 'camera1': 0, 'camera2': 124, 'camera3': 1956, 'camera4': 429, 'camera5': 1237}, Boards: {'charuco': 4300}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 62 matching images
+INFO - Loading images..
+INFO - Loaded 310 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 4300, cameras: {'camera0': 554, 'camera2': 124, 'camera3': 1956, 'camera4': 429, 'camera5': 1237}, Boards: {'charuco': 4300}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera0, with RMS=57.48
+INFO - Camera {'dist': array([[ 0.0484,  0.0068, -0.0066,  0.0167, -0.0009]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 580.8804,    0.    , 1046.5762],
+              [   0.    ,   76.914 ,  558.983 ],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera2, with RMS=36.10
+INFO - Camera {'dist': array([[ 0.7331,  1.0491,  0.2788, -0.0106, -0.486 ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[241.1383,   0.    , 646.0621],
+              [  0.    ,  53.5836, 634.3174],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera3, with RMS=122.47
+INFO - Camera {'dist': array([[-0.0132,  0.    ,  0.0024, -0.004 , -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[143.5694,   0.    , 959.5001],
+              [  0.    , 429.9753, 599.5   ],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera4, with RMS=63.50
+INFO - Camera {'dist': array([[ 0.7796,  0.1083, -0.5744,  0.0296, -0.0373]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[2451.2219,    0.    ,  822.216 ],
+              [   0.    ,  144.7162,  705.8061],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera5, with RMS=59.65
+INFO - Camera {'dist': array([[ 0.0112, -0.0026,  0.2441,  0.0435, -0.0027]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[196.455 ,   0.    , 911.8579],
+              [  0.    , 205.3932, 474.5356],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 83, cameras: {'camera0': 9, 'camera2': 1, 'camera3': 39, 'camera4': 4, 'camera5': 30}, Boards: {'charuco': 83}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.  20.   0.  51.]
+        [  0.   0.   0.   0.   0.]
+        [ 20.   0.   0.  49. 680.]
+        [  0.   0.  49.   0.   0.]
+        [ 51.   0. 680.   0.   0.]]
+INFO - Selected master 2 and pairs [(2, 4), (2, 3), (4, 0)]
+INFO - Estimate transform axis=0, pair (2, 4), inliers 22/22
+INFO - RMS (frobius): 2.7346 (2.7346) (deg): 127.8370 (127.8370) (trans): 0.6908 (0.6908)
+INFO - [[-0.2066  0.738  -0.6424  0.0481]
+        [-0.9729 -0.0853  0.2149  0.1054]
+        [ 0.1038  0.6694  0.7356 -0.1481]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (2, 3), inliers 2/2
+INFO - RMS (frobius): 0.4799 (0.4799) (deg): 16.7649 (16.7649) (trans): 0.0923 (0.0923)
+INFO - [[ 0.3492 -0.2065  0.914  -0.1225]
+        [-0.2014  0.9361  0.2884 -0.2863]
+        [-0.9151 -0.2848  0.2853 -0.3862]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (4, 0), inliers 2/2
+INFO - RMS (frobius): 1.6593 (1.6593) (deg): 71.1900 (71.1900) (trans): 0.1131 (0.1131)
+INFO - [[-0.2177  0.385  -0.8969  0.0344]
+        [ 0.3508  0.8884  0.2962 -0.1348]
+        [ 0.9108 -0.2502 -0.3285 -0.0462]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Initialisation reprojection RMS=4054850094196295.500, n=4108, quantiles=[6.0693e-01 5.1069e+01 1.6045e+02 3.8163e+02 2.5989e+17]
+INFO - Beginning adjustments (3) enabled: {cameras=True, boards=False, camera_poses=True, board_poses=True, motion=True}, options: {'loss': 'linear', 'tolerance': 0.0001}
+INFO - Adjust_outliers 0: reprojection RMS=4054850094196295.500, n=4108, quantiles=[6.0693e-01 5.1069e+01 1.6045e+02 3.8163e+02 2.5989e+17]
+INFO - Rejecting 364 outliers with error > 1908.17 pixels, keeping 3744 / 4108 inliers, (91.14%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         2.0824e+08                                    2.30e+13
+INFO - 1              5         1.5876e+08      4.95e+07       3.99e+02       3.46e+12
+INFO - 2              6         1.0618e+08      5.26e+07       3.88e+02       1.54e+12
+INFO - 3              7         5.8078e+07      4.81e+07       8.72e+02       1.88e+12
+INFO - 4              9         4.9380e+07      8.70e+06       3.50e+02       1.85e+12
+INFO - 5             10         4.4750e+07      4.63e+06       4.88e+02       2.07e+12
+INFO - 6             13         4.3609e+07      1.14e+06       3.44e+00       2.36e+11
+INFO - 7             14         4.2854e+07      7.55e+05       8.08e+00       1.90e+11
+INFO - 8             15         4.2311e+07      5.43e+05       1.37e+01       1.61e+12
+INFO - 9             16         4.1555e+07      7.56e+05       1.96e+01       6.25e+11
+INFO - 10             17         4.0697e+07      8.58e+05       2.41e+01       2.97e+12
+INFO - 11             18         3.9699e+07      9.98e+05       3.22e+01       2.04e+12
+INFO - 12             20         3.9067e+07      6.32e+05       9.55e+00       1.20e+12
+INFO - 13             23         3.8882e+07      1.86e+05       5.76e+00       2.80e+11
+INFO - 14             24         3.8620e+07      2.62e+05       1.00e+01       3.16e+11
+INFO - 15             26         3.8520e+07      9.94e+04       7.75e+00       7.74e+11
+INFO - 16             27         3.8310e+07      2.10e+05       1.03e+01       4.68e+11
+INFO - 17             28         3.8025e+07      2.85e+05       1.24e+01       5.46e+10
+INFO - 18             30         3.7912e+07      1.13e+05       3.02e+00       2.76e+11
+INFO - 19             31         3.7776e+07      1.36e+05       6.24e+00       2.23e+11
+INFO - 20             32         3.7536e+07      2.41e+05       2.52e+01       9.80e+10
+INFO - 21             33         3.7349e+07      1.86e+05       1.19e+01       4.95e+11
+INFO - 22             34         3.7322e+07      2.69e+04       2.04e+01       2.52e+12
+INFO - 23             35         3.6963e+07      3.60e+05       7.69e+00       2.40e+11
+INFO - 24             36         3.6876e+07      8.69e+04       6.14e+00       1.66e+11
+INFO - 25             37         3.6784e+07      9.23e+04       5.11e+00       2.33e+11
+INFO - 26             39         3.6739e+07      4.47e+04       1.64e+00       4.17e+11
+INFO - 27             40         3.6667e+07      7.24e+04       8.95e+00       5.24e+11
+INFO - 28             42         3.6637e+07      2.94e+04       1.25e+00       1.93e+11
+INFO - 29             43         3.6576e+07      6.15e+04       5.12e+00       4.07e+11
+INFO - 30             45         3.6552e+07      2.32e+04       1.55e+00       5.20e+11
+INFO - 31             47         3.6546e+07      6.22e+03       4.47e-01       1.96e+11
+INFO - 32             48         3.6538e+07      7.91e+03       1.43e-01       7.68e+10
+INFO - 33             49         3.6525e+07      1.31e+04       3.79e-01       5.34e+10
+INFO - 34             51         3.6522e+07      3.49e+03       2.22e-01       5.18e+10
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 51, initial cost 2.0824e+08, final cost 3.6522e+07, first-order optimality 5.18e+10.
+INFO - Adjust_outliers 1: reprojection RMS=139.676 (540268270175682297856.000), n=3744 (4108), quantiles=[6.7837e-01 5.5565e+01 9.0380e+01 1.5957e+02 3.4628e+22]
+INFO - Rejecting 135 outliers with error > 797.83 pixels, keeping 3973 / 4108 inliers, (96.71%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         4.1920e+07                                    5.18e+10
+INFO - 1              4         4.0914e+07      1.01e+06       8.09e+00       3.15e+11
+INFO - 2              7         3.9179e+07      1.74e+06       3.05e+00       1.84e+11
+INFO - 3              8         3.8431e+07      7.48e+05       1.26e+01       1.73e+11
+INFO - 4              9         3.7791e+07      6.39e+05       1.72e+01       1.46e+11
+INFO - 5             10         3.7622e+07      1.69e+05       1.76e+01       1.92e+11
+INFO - 6             11         3.7368e+07      2.54e+05       1.98e+01       1.59e+11
+INFO - 7             12         3.7128e+07      2.40e+05       1.49e+01       2.04e+11
+INFO - 8             14         3.7069e+07      5.95e+04       2.53e+00       2.22e+11
+INFO - 9             16         3.7055e+07      1.33e+04       6.71e-01       1.41e+11
+INFO - 10             17         3.7044e+07      1.18e+04       1.10e+00       1.25e+11
+INFO - 11             18         3.7038e+07      5.68e+03       9.47e-01       1.45e+11
+INFO - 12             19         3.7025e+07      1.28e+04       7.97e-01       1.51e+11
+INFO - 13             20         3.7015e+07      1.01e+04       6.57e-01       1.62e+11
+INFO - 14             21         3.6993e+07      2.21e+04       5.88e-01       1.54e+11
+INFO - 15             22         3.6993e+07      4.83e+01       1.71e+00       1.66e+11
+INFO - 16             23         3.6979e+07      1.39e+04       2.07e-01       1.58e+11
+INFO - 17             24         3.6969e+07      1.01e+04       5.61e-01       1.52e+11
+INFO - 18             26         3.6964e+07      4.70e+03       9.23e-02       1.52e+11
+INFO - 19             27         3.6961e+07      2.97e+03       2.29e-01       1.53e+11
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 27, initial cost 4.1920e+07, final cost 3.6961e+07, first-order optimality 1.53e+11.
+INFO - Adjust_outliers 2: reprojection RMS=136.405 (6036451623841.776), n=3973 (4108), quantiles=[9.1421e-01 5.3744e+01 8.6963e+01 1.5124e+02 2.8575e+14]
+INFO - Rejecting 111 outliers with error > 756.22 pixels, keeping 3997 / 4108 inliers, (97.30%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         3.8316e+07                                    1.53e+11
+INFO - 1              5         3.8012e+07      3.04e+05       2.65e+00       1.97e+11
+INFO - 2              7         3.7361e+07      6.51e+05       4.81e+00       7.77e+11
+INFO - 3              8         3.6873e+07      4.88e+05       1.04e+01       1.20e+12
+INFO - 4              9         3.6543e+07      3.30e+05       8.66e+00       2.20e+12
+INFO - 5             10         3.6395e+07      1.48e+05       1.17e+01       3.54e+12
+INFO - 6             12         3.5807e+07      5.89e+05       6.01e+00       1.99e+12
+INFO - 7             13         3.5546e+07      2.60e+05       1.84e+01       6.51e+11
+INFO - 8             15         3.5463e+07      8.28e+04       3.01e+00       1.73e+12
+INFO - 9             16         3.5382e+07      8.18e+04       4.62e+00       8.57e+11
+INFO - 10             17         3.5273e+07      1.09e+05       4.82e+00       1.99e+12
+INFO - 11             18         3.5172e+07      1.01e+05       6.80e+00       1.61e+12
+INFO - 12             19         3.5132e+07      4.00e+04       9.75e+00       1.22e+12
+INFO - 13             20         3.4995e+07      1.37e+05       2.36e+00       8.54e+11
+INFO - 14             21         3.4931e+07      6.39e+04       1.21e+00       8.53e+11
+INFO - 15             22         3.4849e+07      8.23e+04       1.25e+00       6.04e+11
+INFO - 16             23         3.4729e+07      1.21e+05       2.70e+00       1.22e+12
+INFO - 17             24         3.4566e+07      1.62e+05       4.40e+00       1.34e+12
+INFO - 18             26         3.4471e+07      9.56e+04       2.38e+00       3.11e+12
+INFO - 19             27         3.4330e+07      1.41e+05       3.80e+00       2.15e+12
+INFO - 20             29         3.4224e+07      1.06e+05       1.84e+00       4.07e+12
+INFO - 21             30         3.4107e+07      1.17e+05       3.27e+00       3.03e+12
+INFO - 22             31         3.3940e+07      1.67e+05       6.91e+00       3.13e+12
+INFO - 23             33         3.3850e+07      9.00e+04       1.35e+00       5.81e+12
+INFO - 24             34         3.3786e+07      6.38e+04       3.11e+00       2.79e+12
+INFO - 25             36         3.3760e+07      2.64e+04       1.50e+00       7.26e+12
+INFO - 26             38         3.3725e+07      3.40e+04       1.22e+00       2.95e+12
+INFO - 27             39         3.3710e+07      1.57e+04       2.29e+00       7.85e+11
+INFO - 28             41         3.3707e+07      3.21e+03       5.57e-01       2.38e+12
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 41, initial cost 3.8316e+07, final cost 3.3707e+07, first-order optimality 2.38e+12.
+INFO - Adjust_outliers end: reprojection RMS=129.869 (1142631473563182.000), n=3997 (4108), quantiles=[2.4722e-01 5.2265e+01 8.4378e+01 1.4275e+02 7.3235e+16]
+INFO - Exporting calibration to .\calibration.json
+INFO - Dumping state and history to .\calibration.pkl
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera_0', 'camera_1', 'camera_2', 'camera_3', 'camera_4', 'camera_5'] with 192 matching images
+INFO - Loading images..
+INFO - Loaded 1152 images
+INFO - {'camera_0': (1920, 1200), 'camera_1': (1920, 1200), 'camera_2': (1920, 1200), 'camera_3': (1920, 1200), 'camera_4': (1920, 1200), 'camera_5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 4826, cameras: {'camera_0': 614, 'camera_1': 40, 'camera_2': 245, 'camera_3': 1676, 'camera_4': 619, 'camera_5': 1632}, Boards: {'charuco': 4826}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera_0', 'camera_2', 'camera_3', 'camera_4', 'camera_5'] with 192 matching images
+INFO - Loading images..
+INFO - Loaded 960 images
+INFO - {'camera_0': (1920, 1200), 'camera_2': (1920, 1200), 'camera_3': (1920, 1200), 'camera_4': (1920, 1200), 'camera_5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 4786, cameras: {'camera_0': 614, 'camera_2': 245, 'camera_3': 1676, 'camera_4': 619, 'camera_5': 1632}, Boards: {'charuco': 4786}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera_0, with RMS=122.70
+INFO - Camera {'dist': array([[-0.0263, -0.0003,  0.0271, -0.0045,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1113.0609,    0.    ,  963.5365],
+              [   0.    ,   29.911 ,  566.755 ],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_2, with RMS=50.20
+INFO - Camera {'dist': array([[  -2.2973,   49.9113,    0.2325,   -0.35  , -242.6059]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 2321.5776,     0.    ,   886.3108],
+              [    0.    , 11835.0572,   601.4001],
+              [    0.    ,     0.    ,     1.    ]])}
+INFO - 
+INFO - Calibrated camera_3, with RMS=129.93
+INFO - Camera {'dist': array([[-0.066 ,  0.0001,  0.0014,  0.0326,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[247.4253,   0.    , 837.3561],
+              [  0.    , 705.1189, 838.0182],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera_4, with RMS=77.26
+INFO - Camera {'dist': array([[-0.0795,  0.0094, -0.0584,  0.0134, -0.0003]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1208.5719,    0.    ,  837.3342],
+              [   0.    ,  137.9073,  807.4024],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_5, with RMS=134.93
+INFO - Camera {'dist': array([[-0.0274, -0.0002,  0.0006, -0.0091,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[282.2018,   0.    , 891.2314],
+              [  0.    , 184.2455, 601.3283],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 85, cameras: {'camera_0': 10, 'camera_2': 4, 'camera_3': 29, 'camera_4': 12, 'camera_5': 30}, Boards: {'charuco': 85}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.   0.   0.   0.]
+        [  0.   0.   0.   0.   0.]
+        [  0.   0.   0.  77. 141.]
+        [  0.   0.  77.   0.   0.]
+        [  0.   0. 141.   0.   0.]]
+INFO - Selected master 2 and pairs [(2, 4), (2, 3)]
+INFO - Estimate transform axis=0, pair (2, 4), inliers 4/5
+INFO - RMS (frobius): 2.0371 (51.8475) (deg): 76.1270 (99.8013) (trans): 0.9224 (53.1780)
+INFO - [[ 0.9272  0.3517  0.1289 -0.0531]
+        [-0.0026  0.3502 -0.9367  0.3347]
+        [-0.3746  0.8681  0.3256  0.2607]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (2, 3), inliers 3/3
+INFO - RMS (frobius): 4.9052 (4.9052) (deg): 61.1998 (61.1998) (trans): 4.5081 (4.5081)
+INFO - [[ 0.4713 -0.8819 -0.0027  0.0151]
+        [-0.4613 -0.2439 -0.8531 -0.8509]
+        [ 0.7517  0.4033 -0.5218  4.0247]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera_0', 'camera_2', 'camera_3', 'camera_4', 'camera_5'] with 192 matching images
+INFO - Loading images..
+INFO - Loaded 960 images
+INFO - {'camera_0': (1920, 1200), 'camera_2': (1920, 1200), 'camera_3': (1920, 1200), 'camera_4': (1920, 1200), 'camera_5': (1920, 1200)}
+INFO - Loaded detections from .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 4786, cameras: {'camera_0': 614, 'camera_2': 245, 'camera_3': 1676, 'camera_4': 619, 'camera_5': 1632}, Boards: {'charuco': 4786}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera_0, with RMS=122.70
+INFO - Camera {'dist': array([[-0.0263, -0.0003,  0.0271, -0.0045,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1113.0609,    0.    ,  963.5365],
+              [   0.    ,   29.911 ,  566.755 ],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_2, with RMS=50.20
+INFO - Camera {'dist': array([[  -2.2973,   49.9113,    0.2325,   -0.35  , -242.6059]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 2321.5776,     0.    ,   886.3108],
+              [    0.    , 11835.0572,   601.4001],
+              [    0.    ,     0.    ,     1.    ]])}
+INFO - 
+INFO - Calibrated camera_3, with RMS=129.93
+INFO - Camera {'dist': array([[-0.066 ,  0.0001,  0.0014,  0.0326,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[247.4253,   0.    , 837.3561],
+              [  0.    , 705.119 , 838.0182],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera_4, with RMS=77.26
+INFO - Camera {'dist': array([[-0.0795,  0.0094, -0.0584,  0.0134, -0.0003]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1208.5719,    0.    ,  837.3342],
+              [   0.    ,  137.9073,  807.4024],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_5, with RMS=134.93
+INFO - Camera {'dist': array([[-0.0274, -0.0002,  0.0006, -0.0091,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[282.2018,   0.    , 891.2314],
+              [  0.    , 184.2455, 601.3283],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 85, cameras: {'camera_0': 10, 'camera_2': 4, 'camera_3': 29, 'camera_4': 12, 'camera_5': 30}, Boards: {'charuco': 85}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.   0.   0.   0.]
+        [  0.   0.   0.   0.   0.]
+        [  0.   0.   0.  77. 141.]
+        [  0.   0.  77.   0.   0.]
+        [  0.   0. 141.   0.   0.]]
+INFO - Selected master 2 and pairs [(2, 4), (2, 3)]
+INFO - Estimate transform axis=0, pair (2, 4), inliers 4/5
+INFO - RMS (frobius): 2.0371 (81572751.4804) (deg): 76.1271 (101.2122) (trans): 0.9224 (81572752.3131)
+INFO - [[ 0.9272  0.3517  0.1289 -0.0531]
+        [-0.0026  0.3501 -0.9367  0.3347]
+        [-0.3746  0.8682  0.3256  0.2607]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (2, 3), inliers 3/3
+INFO - RMS (frobius): 2.3309 (2.3309) (deg): 59.5403 (59.5403) (trans): 1.6651 (1.6651)
+INFO - [[ 0.4417 -0.8888 -0.1218  0.3399]
+        [-0.568  -0.172  -0.8049 -0.1539]
+        [ 0.6944  0.4247 -0.5808  2.0587]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 62 matching images
+INFO - Loading images..
+INFO - Loaded 310 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 4300, cameras: {'camera0': 554, 'camera2': 124, 'camera3': 1956, 'camera4': 429, 'camera5': 1237}, Boards: {'charuco': 4300}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera0, with RMS=57.48
+INFO - Camera {'dist': array([[ 0.0484,  0.0068, -0.0066,  0.0167, -0.0009]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 580.8804,    0.    , 1046.5762],
+              [   0.    ,   76.914 ,  558.983 ],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera2, with RMS=36.10
+INFO - Camera {'dist': array([[ 0.7331,  1.0491,  0.2788, -0.0106, -0.486 ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[241.1383,   0.    , 646.0621],
+              [  0.    ,  53.5836, 634.3174],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera3, with RMS=122.45
+INFO - Camera {'dist': array([[-0.0132,  0.    ,  0.0024, -0.004 , -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[143.5694,   0.    , 959.5001],
+              [  0.    , 429.9753, 599.5   ],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera4, with RMS=63.50
+INFO - Camera {'dist': array([[ 0.7796,  0.1083, -0.5744,  0.0296, -0.0373]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[2451.2219,    0.    ,  822.216 ],
+              [   0.    ,  144.7162,  705.8061],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera5, with RMS=59.65
+INFO - Camera {'dist': array([[ 0.0112, -0.0026,  0.2441,  0.0435, -0.0027]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[196.455 ,   0.    , 911.8579],
+              [  0.    , 205.3932, 474.5356],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 83, cameras: {'camera0': 9, 'camera2': 1, 'camera3': 39, 'camera4': 4, 'camera5': 30}, Boards: {'charuco': 83}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.  20.   0.  51.]
+        [  0.   0.   0.   0.   0.]
+        [ 20.   0.   0.  49. 680.]
+        [  0.   0.  49.   0.   0.]
+        [ 51.   0. 680.   0.   0.]]
+INFO - Selected master 2 and pairs [(2, 4), (2, 3), (4, 0)]
+INFO - Estimate transform axis=0, pair (2, 4), inliers 22/22
+INFO - RMS (frobius): 2.7421 (2.7421) (deg): 128.2993 (128.2993) (trans): 0.6910 (0.6910)
+INFO - [[-0.2066  0.738  -0.6424  0.0481]
+        [-0.9729 -0.0853  0.2149  0.1054]
+        [ 0.1038  0.6694  0.7356 -0.1481]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (2, 3), inliers 2/2
+INFO - RMS (frobius): 0.4799 (0.4799) (deg): 16.7653 (16.7653) (trans): 0.0923 (0.0923)
+INFO - [[ 0.3492 -0.2065  0.914  -0.1225]
+        [-0.2014  0.9361  0.2884 -0.2863]
+        [-0.9151 -0.2848  0.2853 -0.3862]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (4, 0), inliers 2/2
+INFO - RMS (frobius): 1.6593 (1.6593) (deg): 71.1900 (71.1900) (trans): 0.1131 (0.1131)
+INFO - [[-0.2177  0.385  -0.8969  0.0344]
+        [ 0.3508  0.8884  0.2962 -0.1348]
+        [ 0.9108 -0.2502 -0.3285 -0.0462]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Initialisation reprojection RMS=20227353051618368.000, n=4108, quantiles=[6.0691e-01 5.0864e+01 1.6017e+02 3.8267e+02 1.2701e+18]
+INFO - Beginning adjustments (3) enabled: {cameras=True, boards=False, camera_poses=True, board_poses=True, motion=True}, options: {'loss': 'linear', 'tolerance': 0.0001}
+INFO - Adjust_outliers 0: reprojection RMS=20227353051618368.000, n=4108, quantiles=[6.0691e-01 5.0864e+01 1.6017e+02 3.8267e+02 1.2701e+18]
+INFO - Rejecting 367 outliers with error > 1913.33 pixels, keeping 3741 / 4108 inliers, (91.07%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         2.0777e+08                                    3.29e+13
+INFO - 1              5         1.4428e+08      6.35e+07       3.87e+02       2.77e+12
+INFO - 2              7         1.2023e+08      2.41e+07       1.95e+02       1.20e+12
+INFO - 3              9         1.1025e+08      9.98e+06       1.01e+02       1.86e+12
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera_0', 'camera_2', 'camera_3', 'camera_4', 'camera_5'] with 126 matching images
+INFO - Loading images..
+INFO - Loaded 630 images
+INFO - {'camera_0': (1920, 1200), 'camera_2': (1920, 1200), 'camera_3': (1920, 1200), 'camera_4': (1920, 1200), 'camera_5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 3865, cameras: {'camera_0': 561, 'camera_2': 245, 'camera_3': 1304, 'camera_4': 462, 'camera_5': 1293}, Boards: {'charuco': 3865}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera_0, with RMS=122.70
+INFO - Camera {'dist': array([[-0.0263, -0.0003,  0.0271, -0.0045,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1113.0608,    0.    ,  963.5365],
+              [   0.    ,   29.9109,  566.755 ],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_2, with RMS=50.20
+INFO - Camera {'dist': array([[  -2.2973,   49.9113,    0.2325,   -0.35  , -242.6059]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 2321.5776,     0.    ,   886.3108],
+              [    0.    , 11835.0572,   601.4001],
+              [    0.    ,     0.    ,     1.    ]])}
+INFO - 
+INFO - Calibrated camera_3, with RMS=190.44
+INFO - Camera {'dist': array([[-0.0875,  0.0011, -0.001 ,  0.0163,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 420.8423,    0.    ,  959.5013],
+              [   0.    , 3164.0326,  599.4999],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_4, with RMS=77.32
+INFO - Camera {'dist': array([[-216.3475, 5745.1994,    5.8527,   -0.0988, -628.7626]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[24078.377 ,     0.    ,  1013.0424],
+              [    0.    , 35551.8729,   635.2429],
+              [    0.    ,     0.    ,     1.    ]])}
+INFO - 
+INFO - Calibrated camera_5, with RMS=248.48
+INFO - Camera {'dist': array([[-0.0017,  0.    ,  0.    ,  0.    , -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[387.5353,   0.    , 959.5   ],
+              [  0.    , 171.5224, 599.5   ],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 68, cameras: {'camera_0': 10, 'camera_2': 4, 'camera_3': 21, 'camera_4': 9, 'camera_5': 24}, Boards: {'charuco': 68}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.   0.   0.   0.]
+        [  0.   0.   0.   0.   0.]
+        [  0.   0.   0.  22. 121.]
+        [  0.   0.  22.   0.   0.]
+        [  0.   0. 121.   0.   0.]]
+INFO - Selected master 2 and pairs [(2, 4), (2, 3)]
+INFO - Estimate transform axis=0, pair (2, 4), inliers 2/4
+INFO - RMS (frobius): 2.7208 (2.9184) (deg): 121.0528 (112.6295) (trans): 0.3804 (0.9790)
+INFO - [[ 0.6898  0.4413 -0.574   0.3632]
+        [-0.599   0.7932 -0.11    1.7302]
+        [ 0.4067  0.4197  0.8114 -3.5003]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (2, 3), inliers 1/1
+INFO - RMS (frobius): 0.0000 (0.0000) (deg): 0.0000 (0.0000) (trans): 0.0000 (0.0000)
+INFO - [[-0.4828 -0.0934  0.8707  0.0531]
+        [ 0.0696 -0.9952 -0.0682 -0.0008]
+        [ 0.873   0.0277  0.487  18.1317]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera_0', 'camera_3', 'camera_4', 'camera_5'] with 126 matching images
+INFO - Loading images..
+INFO - Loaded 504 images
+INFO - {'camera_0': (1920, 1200), 'camera_3': (1920, 1200), 'camera_4': (1920, 1200), 'camera_5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 3620, cameras: {'camera_0': 561, 'camera_3': 1304, 'camera_4': 462, 'camera_5': 1293}, Boards: {'charuco': 3620}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera_0, with RMS=122.70
+INFO - Camera {'dist': array([[-0.0263, -0.0003,  0.0271, -0.0045,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1113.0609,    0.    ,  963.5365],
+              [   0.    ,   29.911 ,  566.755 ],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_3, with RMS=190.44
+INFO - Camera {'dist': array([[-0.0875,  0.0011, -0.001 ,  0.0163,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 420.8423,    0.    ,  959.5013],
+              [   0.    , 3164.0326,  599.4999],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera_4, with RMS=77.32
+INFO - Camera {'dist': array([[-216.3475, 5745.1994,    5.8527,   -0.0988, -628.7626]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[24078.377 ,     0.    ,  1013.0424],
+              [    0.    , 35551.8729,   635.2429],
+              [    0.    ,     0.    ,     1.    ]])}
+INFO - 
+INFO - Calibrated camera_5, with RMS=248.47
+INFO - Camera {'dist': array([[-0.0017,  0.    ,  0.    ,  0.    , -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[387.5353,   0.    , 959.5   ],
+              [  0.    , 171.5224, 599.5   ],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 64, cameras: {'camera_0': 10, 'camera_3': 21, 'camera_4': 9, 'camera_5': 24}, Boards: {'charuco': 64}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.   0.   0.]
+        [  0.   0.  22. 121.]
+        [  0.  22.   0.   0.]
+        [  0. 121.   0.   0.]]
+INFO - Selected master 1 and pairs [(1, 3), (1, 2)]
+INFO - Estimate transform axis=0, pair (1, 3), inliers 2/4
+INFO - RMS (frobius): 2.7208 (2.9184) (deg): 121.0528 (112.6294) (trans): 0.3804 (0.9790)
+INFO - [[ 0.6898  0.4413 -0.574   0.3632]
+        [-0.599   0.7932 -0.11    1.7302]
+        [ 0.4067  0.4197  0.8114 -3.5003]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (1, 2), inliers 1/1
+INFO - RMS (frobius): 0.0000 (0.0000) (deg): 0.0000 (0.0000) (trans): 0.0000 (0.0000)
+INFO - [[-0.4828 -0.0934  0.8707  0.0531]
+        [ 0.0696 -0.9952 -0.0682 -0.0008]
+        [ 0.873   0.0277  0.487  18.1317]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 62 matching images
+INFO - Loading images..
+INFO - Loaded 310 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 4300, cameras: {'camera0': 554, 'camera2': 124, 'camera3': 1956, 'camera4': 429, 'camera5': 1237}, Boards: {'charuco': 4300}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera0, with RMS=57.48
+INFO - Camera {'dist': array([[ 0.0484,  0.0068, -0.0066,  0.0167, -0.0009]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 580.8804,    0.    , 1046.5762],
+              [   0.    ,   76.914 ,  558.983 ],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera2, with RMS=36.10
+INFO - Camera {'dist': array([[ 0.7331,  1.0491,  0.2788, -0.0106, -0.486 ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[241.1383,   0.    , 646.0621],
+              [  0.    ,  53.5836, 634.3174],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera3, with RMS=122.47
+INFO - Camera {'dist': array([[-0.0132,  0.    ,  0.0024, -0.004 , -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[143.5694,   0.    , 959.5001],
+              [  0.    , 429.9753, 599.5   ],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera4, with RMS=63.50
+INFO - Camera {'dist': array([[ 0.7796,  0.1083, -0.5744,  0.0296, -0.0373]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[2451.2219,    0.    ,  822.216 ],
+              [   0.    ,  144.7162,  705.8061],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera5, with RMS=59.65
+INFO - Camera {'dist': array([[ 0.0112, -0.0026,  0.2441,  0.0435, -0.0027]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[196.455 ,   0.    , 911.8579],
+              [  0.    , 205.3932, 474.5356],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 83, cameras: {'camera0': 9, 'camera2': 1, 'camera3': 39, 'camera4': 4, 'camera5': 30}, Boards: {'charuco': 83}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.  20.   0.  51.]
+        [  0.   0.   0.   0.   0.]
+        [ 20.   0.   0.  49. 680.]
+        [  0.   0.  49.   0.   0.]
+        [ 51.   0. 680.   0.   0.]]
+INFO - Selected master 2 and pairs [(2, 4), (2, 3), (4, 0)]
+INFO - Estimate transform axis=0, pair (2, 4), inliers 22/22
+INFO - RMS (frobius): 2.7346 (2.7346) (deg): 127.8370 (127.8370) (trans): 0.6908 (0.6908)
+INFO - [[-0.2066  0.738  -0.6424  0.0481]
+        [-0.9729 -0.0853  0.2149  0.1054]
+        [ 0.1038  0.6694  0.7356 -0.1481]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (2, 3), inliers 2/2
+INFO - RMS (frobius): 0.4799 (0.4799) (deg): 16.7649 (16.7649) (trans): 0.0923 (0.0923)
+INFO - [[ 0.3492 -0.2065  0.914  -0.1225]
+        [-0.2014  0.9361  0.2884 -0.2863]
+        [-0.9151 -0.2848  0.2853 -0.3862]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (4, 0), inliers 2/2
+INFO - RMS (frobius): 1.6593 (1.6593) (deg): 71.1900 (71.1900) (trans): 0.1131 (0.1131)
+INFO - [[-0.2177  0.385  -0.8969  0.0344]
+        [ 0.3508  0.8884  0.2962 -0.1348]
+        [ 0.9108 -0.2502 -0.3285 -0.0462]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Initialisation reprojection RMS=4054850127697026.000, n=4108, quantiles=[6.0693e-01 5.1069e+01 1.6045e+02 3.8163e+02 2.5989e+17]
+INFO - Beginning adjustments (3) enabled: {cameras=True, boards=False, camera_poses=True, board_poses=True, motion=True}, options: {'loss': 'linear', 'tolerance': 0.0001}
+INFO - Adjust_outliers 0: reprojection RMS=4054850127697026.000, n=4108, quantiles=[6.0693e-01 5.1069e+01 1.6045e+02 3.8163e+02 2.5989e+17]
+INFO - Rejecting 364 outliers with error > 1908.17 pixels, keeping 3744 / 4108 inliers, (91.14%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         2.0824e+08                                    2.30e+13
+INFO - 1              5         1.5712e+08      5.11e+07       3.98e+02       3.30e+12
+INFO - 2              6         1.0560e+08      5.15e+07       3.90e+02       1.62e+12
+INFO - 3              7         5.7940e+07      4.77e+07       8.73e+02       1.91e+12
+INFO - 4              9         4.9301e+07      8.64e+06       3.51e+02       7.14e+11
+INFO - 5             10         4.3497e+07      5.80e+06       4.11e+02       9.90e+10
+INFO - 6             12         4.2352e+07      1.15e+06       2.24e+01       2.63e+12
+INFO - 7             15         4.2143e+07      2.08e+05       1.80e+01       4.49e+12
+INFO - 8             16         4.1819e+07      3.24e+05       1.57e+01       1.73e+12
+INFO - 9             17         4.1309e+07      5.10e+05       3.11e+01       8.47e+11
+INFO - 10             18         4.0780e+07      5.29e+05       1.71e+01       3.88e+12
+INFO - 11             20         4.0566e+07      2.14e+05       4.54e+00       1.89e+12
+INFO - 12             22         4.0400e+07      1.66e+05       1.17e+01       1.87e+12
+INFO - 13             23         4.0119e+07      2.81e+05       8.04e+00       7.01e+11
+INFO - 14             24         3.9682e+07      4.37e+05       1.24e+01       1.13e+12
+INFO - 15             28         3.9652e+07      3.07e+04       2.51e+00       7.79e+11
+INFO - 16             29         3.9607e+07      4.50e+04       3.42e+00       6.22e+11
+INFO - 17             30         3.9529e+07      7.80e+04       4.56e+00       5.56e+11
+INFO - 18             31         3.9410e+07      1.19e+05       5.13e+00       5.33e+11
+INFO - 19             32         3.9225e+07      1.85e+05       5.60e+00       5.82e+11
+INFO - 20             33         3.8915e+07      3.10e+05       7.46e+00       6.30e+11
+INFO - 21             35         3.8788e+07      1.27e+05       3.12e+00       4.43e+11
+INFO - 22             37         3.8722e+07      6.59e+04       1.78e+00       4.17e+11
+INFO - 23             38         3.8570e+07      1.52e+05       5.24e+00       4.29e+11
+INFO - 24             40         3.8514e+07      5.59e+04       1.14e+00       3.99e+11
+INFO - 25             41         3.8371e+07      1.43e+05       4.72e+00       4.07e+11
+INFO - 26             42         3.8198e+07      1.73e+05       5.86e+00       3.88e+11
+INFO - 27             44         3.8065e+07      1.33e+05       3.41e+00       3.94e+11
+INFO - 28             46         3.8025e+07      3.96e+04       1.95e+00       3.77e+11
+INFO - 29             47         3.7941e+07      8.39e+04       3.79e+00       3.60e+11
+INFO - 30             48         3.7796e+07      1.45e+05       7.11e+00       3.42e+11
+INFO - 31             50         3.7753e+07      4.35e+04       3.28e+00       3.26e+11
+INFO - 32             51         3.7669e+07      8.36e+04       4.46e+00       3.27e+11
+INFO - 33             53         3.7629e+07      4.07e+04       1.91e+00       3.23e+11
+INFO - 34             54         3.7591e+07      3.72e+04       6.81e+00       3.33e+11
+INFO - 35             55         3.7557e+07      3.46e+04       1.56e+00       3.30e+11
+INFO - 36             56         3.7511e+07      4.62e+04       2.87e+00       3.25e+11
+INFO - 37             57         3.7464e+07      4.67e+04       4.13e+00       3.22e+11
+INFO - 38             59         3.7446e+07      1.77e+04       8.09e-01       3.21e+11
+INFO - 39             60         3.7433e+07      1.34e+04       1.87e-01       3.22e+11
+INFO - 40             61         3.7417e+07      1.58e+04       6.86e-01       3.22e+11
+INFO - 41             62         3.7395e+07      2.20e+04       1.59e+00       3.22e+11
+INFO - 42             65         3.7394e+07      7.63e+02       9.18e-02       3.22e+11
+INFO - 43             66         3.7393e+07      1.20e+03       2.61e-02       3.22e+11
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 66, initial cost 2.0824e+08, final cost 3.7393e+07, first-order optimality 3.22e+11.
+INFO - Adjust_outliers 1: reprojection RMS=141.333 (3146977713947596288.000), n=3744 (4108), quantiles=[1.4423e+00 5.5774e+01 9.0443e+01 1.6059e+02 2.0170e+20]
+INFO - Rejecting 137 outliers with error > 802.93 pixels, keeping 3971 / 4108 inliers, (96.67%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         4.3336e+07                                    3.22e+11
+INFO - 1              5         4.1156e+07      2.18e+06       7.10e+00       2.06e+11
+INFO - 2              7         3.9823e+07      1.33e+06       7.38e+00       3.99e+11
+INFO - 3              8         3.8482e+07      1.34e+06       1.81e+01       2.72e+11
+INFO - 4             11         3.8434e+07      4.82e+04       2.70e+00       1.02e+10
+INFO - 5             12         3.8276e+07      1.58e+05       2.79e+00       7.38e+10
+INFO - 6             13         3.8165e+07      1.11e+05       3.45e+00       7.79e+10
+INFO - 7             14         3.8080e+07      8.49e+04       7.10e+00       8.54e+10
+INFO - 8             15         3.7891e+07      1.89e+05       7.20e+00       7.04e+10
+INFO - 9             16         3.7722e+07      1.69e+05       8.05e+00       8.50e+10
+INFO - 10             17         3.7586e+07      1.36e+05       6.79e+00       7.04e+10
+INFO - 11             18         3.7405e+07      1.81e+05       9.56e+00       1.02e+11
+INFO - 12             19         3.7119e+07      2.87e+05       1.09e+01       7.37e+10
+INFO - 13             20         3.6943e+07      1.75e+05       1.45e+01       1.90e+11
+INFO - 14             22         3.6599e+07      3.45e+05       9.46e+00       4.29e+08
+INFO - 15             23         3.6484e+07      1.15e+05       1.19e+01       6.52e+10
+INFO - 16             26         3.6437e+07      4.67e+04       4.06e-01       5.35e+10
+INFO - 17             27         3.6411e+07      2.59e+04       2.36e+00       5.95e+10
+INFO - 18             28         3.6376e+07      3.55e+04       4.47e+00       3.75e+09
+INFO - 19             29         3.6327e+07      4.83e+04       2.39e+00       8.98e+10
+INFO - 20             30         3.6257e+07      6.97e+04       1.84e+00       4.65e+10
+INFO - 21             31         3.6154e+07      1.03e+05       1.67e+00       7.65e+10
+INFO - 22             32         3.5979e+07      1.76e+05       2.73e+00       1.27e+11
+INFO - 23             33         3.5724e+07      2.55e+05       3.59e+00       7.29e+10
+INFO - 24             34         3.5355e+07      3.69e+05       7.48e+00       8.71e+10
+INFO - 25             36         3.5103e+07      2.52e+05       4.49e+00       1.29e+11
+INFO - 26             37         3.4780e+07      3.24e+05       1.20e+01       2.91e+11
+INFO - 27             38         3.4569e+07      2.10e+05       1.61e+01       2.08e+11
+INFO - 28             40         3.4075e+07      4.94e+05       8.81e+00       1.27e+11
+INFO - 29             41         3.3687e+07      3.87e+05       1.64e+01       6.52e+10
+INFO - 30             43         3.3554e+07      1.34e+05       2.36e+00       5.97e+10
+INFO - 31             44         3.3364e+07      1.89e+05       5.35e+00       8.10e+10
+INFO - 32             46         3.3255e+07      1.09e+05       2.11e+00       6.67e+10
+INFO - 33             47         3.3054e+07      2.01e+05       5.50e+00       1.12e+11
+INFO - 34             49         3.2947e+07      1.07e+05       1.82e+00       7.24e+10
+INFO - 35             50         3.2737e+07      2.09e+05       4.41e+00       8.82e+10
+INFO - 36             51         3.2543e+07      1.94e+05       6.44e+00       1.53e+11
+INFO - 37             53         3.2310e+07      2.33e+05       5.99e+00       3.94e+10
+INFO - 38             55         3.2252e+07      5.84e+04       2.72e+00       7.61e+10
+INFO - 39             56         3.2141e+07      1.10e+05       7.57e+00       4.47e+10
+INFO - 40             57         3.2107e+07      3.44e+04       3.75e+00       2.32e+11
+INFO - 41             58         3.2043e+07      6.36e+04       1.21e+01       1.11e+11
+INFO - 42             59         3.1924e+07      1.19e+05       6.09e+00       7.59e+10
+INFO - 43             60         3.1898e+07      2.56e+04       1.96e+00       1.13e+11
+INFO - 44             61         3.1873e+07      2.56e+04       2.27e+00       8.42e+10
+INFO - 45             62         3.1850e+07      2.25e+04       8.60e-01       7.75e+10
+INFO - 46             63         3.1825e+07      2.52e+04       1.04e+00       2.04e+10
+INFO - 47             64         3.1799e+07      2.63e+04       1.96e+00       2.82e+11
+INFO - 48             65         3.1707e+07      9.20e+04       3.25e+00       9.29e+09
+INFO - 49             67         3.1681e+07      2.53e+04       8.51e-01       4.49e+10
+INFO - 50             68         3.1679e+07      2.69e+03       1.74e+00       5.43e+11
+INFO - 51             69         3.1612e+07      6.65e+04       3.10e+00       6.96e+10
+INFO - 52             70         3.1596e+07      1.60e+04       1.20e+00       6.44e+10
+INFO - 53             72         3.1524e+07      7.18e+04       3.05e-01       1.09e+11
+INFO - 54             73         3.1494e+07      3.01e+04       1.27e+00       6.75e+10
+INFO - 55             75         3.1493e+07      1.05e+03       2.86e-01       4.10e+10
+INFO - 56             76         3.1483e+07      1.08e+04       1.20e-01       5.85e+09
+INFO - 57             77         3.1475e+07      8.02e+03       4.90e-01       6.35e+09
+INFO - 58             79         3.1469e+07      5.35e+03       1.85e-01       7.05e+09
+INFO - 59             80         3.1461e+07      8.36e+03       5.08e-01       3.67e+09
+INFO - 60             83         3.1460e+07      7.67e+02       5.37e-02       8.81e+09
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 83, initial cost 4.3336e+07, final cost 3.1460e+07, first-order optimality 8.81e+09.
+INFO - Adjust_outliers 2: reprojection RMS=125.877 (2127636379885848756224.000), n=3971 (4108), quantiles=[1.2375e+00 5.1084e+01 8.1862e+01 1.3870e+02 1.3636e+23]
+INFO - Rejecting 80 outliers with error > 693.52 pixels, keeping 4028 / 4108 inliers, (98.05%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         3.2944e+07                                    1.98e+11
+INFO - 1              5         3.2539e+07      4.05e+05       2.18e+00       2.26e+11
+INFO - 2              6         3.2169e+07      3.70e+05       1.36e+01       7.20e+10
+INFO - 3              8         3.2107e+07      6.23e+04       1.77e+00       7.28e+10
+INFO - 4             10         3.2069e+07      3.82e+04       2.93e-01       5.27e+10
+INFO - 5             11         3.2049e+07      1.96e+04       5.46e-01       1.53e+10
+INFO - 6             13         3.2044e+07      5.26e+03       1.17e-01       1.20e+10
+INFO - 7             14         3.2036e+07      7.78e+03       3.13e-01       9.85e+09
+INFO - 8             15         3.2025e+07      1.04e+04       5.31e-01       8.61e+09
+INFO - 9             16         3.2015e+07      1.01e+04       6.16e-01       3.62e+10
+INFO - 10             19         3.2013e+07      1.79e+03       5.17e-02       2.27e+10
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 19, initial cost 3.2944e+07, final cost 3.2013e+07, first-order optimality 2.27e+10.
+INFO - Adjust_outliers end: reprojection RMS=126.077 (47054125878546563072.000), n=4028 (4108), quantiles=[1.5975e+00 5.0906e+01 8.1320e+01 1.3692e+02 3.0159e+21]
+INFO - Exporting calibration to .\calibration.json
+INFO - Dumping state and history to .\calibration.pkl
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={}}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera_0', 'camera_2', 'camera_3', 'camera_4', 'camera_5'] with 126 matching images
+INFO - Loading images..
+INFO - Loaded 630 images
+INFO - {'camera_0': (1920, 1200), 'camera_2': (1920, 1200), 'camera_3': (1920, 1200), 'camera_4': (1920, 1200), 'camera_5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 3807, cameras: {'camera_0': 624, 'camera_2': 247, 'camera_3': 1219, 'camera_4': 421, 'camera_5': 1296}, Boards: {'charuco': 3807}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 126 matching images
+INFO - Loading images..
+INFO - Loaded 630 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 3807, cameras: {'camera0': 624, 'camera2': 247, 'camera3': 1219, 'camera4': 421, 'camera5': 1296}, Boards: {'charuco': 3807}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera3', 'camera4', 'camera5'] with 126 matching images
+INFO - Loading images..
+INFO - Loaded 504 images
+INFO - {'camera0': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 3560, cameras: {'camera0': 624, 'camera3': 1219, 'camera4': 421, 'camera5': 1296}, Boards: {'charuco': 3560}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera2', 'camera3', 'camera4', 'camera5'] with 126 matching images
+INFO - Loading images..
+INFO - Loaded 630 images
+INFO - {'camera0': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 3807, cameras: {'camera0': 624, 'camera2': 247, 'camera3': 1219, 'camera4': 421, 'camera5': 1296}, Boards: {'charuco': 3807}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera0, with RMS=110.28
+INFO - Camera {'dist': array([[-0.0989,  0.0031, -0.004 , -0.0034,  0.0002]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1165.9968,    0.    , 1023.8071],
+              [   0.    ,   47.7961,  598.5255],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera2, with RMS=52.64
+INFO - Camera {'dist': array([[   4.3135,   14.1948,    0.3669,    0.3979, -272.5895]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 988.5337,    0.    ,  753.5355],
+              [   0.    , 2282.6358,  727.4242],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera3, with RMS=109.66
+INFO - Camera {'dist': array([[-0.0153, -0.0001, -0.0069,  0.0281, -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 91.9217,   0.    , 938.0559],
+              [  0.    , 538.281 , 711.7887],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera4, with RMS=94.11
+INFO - Camera {'dist': array([[-0.008 ,  0.    , -0.0305,  0.0163,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[577.1123,   0.    , 934.4539],
+              [  0.    ,  33.5294, 575.3655],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera5, with RMS=152.42
+INFO - Camera {'dist': array([[-0.0021, -0.    , -0.    , -0.0006,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 49.8018,   0.    , 959.5   ],
+              [  0.    , 221.0493, 599.5   ],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 62, cameras: {'camera0': 11, 'camera2': 4, 'camera3': 17, 'camera4': 7, 'camera5': 23}, Boards: {'charuco': 62}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.   0.  20.   0.]
+        [  0.   0.   0.   0.   0.]
+        [  0.   0.   0.   0. 101.]
+        [ 20.   0.   0.   0.   0.]
+        [  0.   0. 101.   0.   0.]]
+INFO - Selected master 2 and pairs [(2, 4)]
+INFO - Estimate transform axis=0, pair (2, 4), inliers 3/3
+INFO - RMS (frobius): 2.6255 (2.6255) (deg): 103.0484 (103.0484) (trans): 0.9437 (0.9437)
+INFO - [[ 0.2059  0.8318 -0.5155  0.2156]
+        [-0.943   0.3094  0.1226  0.1601]
+        [ 0.2615  0.4609  0.848  -0.5406]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera3', 'camera4', 'camera5'] with 126 matching images
+INFO - Loading images..
+INFO - Loaded 504 images
+INFO - {'camera0': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 3560, cameras: {'camera0': 624, 'camera3': 1219, 'camera4': 421, 'camera5': 1296}, Boards: {'charuco': 3560}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera3', 'camera4', 'camera5'] with 62 matching images
+INFO - Loading images..
+INFO - Loaded 248 images
+INFO - {'camera0': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 3910, cameras: {'camera0': 443, 'camera3': 1901, 'camera4': 396, 'camera5': 1170}, Boards: {'charuco': 3910}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera1', 'camera2', 'camera3', 'camera4', 'camera5'] with 144 matching images
+INFO - Loading images..
+INFO - Loaded 864 images
+INFO - {'camera0': (1920, 1200), 'camera1': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 8991, cameras: {'camera0': 2487, 'camera1': 0, 'camera2': 5, 'camera3': 2018, 'camera4': 517, 'camera5': 3964}, Boards: {'charuco': 8991}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera3', 'camera4', 'camera5'] with 144 matching images
+INFO - Loading images..
+INFO - Loaded 576 images
+INFO - {'camera0': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 8986, cameras: {'camera0': 2487, 'camera3': 2018, 'camera4': 517, 'camera5': 3964}, Boards: {'charuco': 8986}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera0, with RMS=76.01
+INFO - Camera {'dist': array([[-0.0203,  0.0001,  0.0034, -0.0002,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[5155.803 ,    0.    ,  958.5643],
+              [   0.    ,   16.756 ,  783.7861],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera3, with RMS=68.49
+INFO - Camera {'dist': array([[-0.0662, -0.0007,  0.0015,  0.0019,  0.0001]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1489.5471,    0.    ,  950.4677],
+              [   0.    ,   52.6595,  774.5374],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera4, with RMS=62.66
+INFO - Camera {'dist': array([[-0.1212,  0.001 ,  0.0065,  0.0025,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 23.3209,   0.    , 941.6436],
+              [  0.    , 714.6872, 570.6709],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera5, with RMS=159.47
+INFO - Camera {'dist': array([[-0.0039,  0.    , -0.0002, -0.0003,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[1444.4021,    0.    ,  959.5   ],
+              [   0.    ,  316.7417,  599.5   ],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 176, cameras: {'camera0': 40, 'camera3': 55, 'camera4': 4, 'camera5': 77}, Boards: {'charuco': 176}
+INFO - Overlaps by camera:
+INFO - [[   0.  188.   20.  916.]
+        [ 188.    0.   20. 1120.]
+        [  20.   20.    0.   20.]
+        [ 916. 1120.   20.    0.]]
+INFO - Selected master 3 and pairs [(3, 1), (3, 0), (3, 2)]
+INFO - Estimate transform axis=0, pair (3, 1), inliers 38/38
+INFO - RMS (frobius): 2.8948 (2.8948) (deg): 136.2472 (136.2472) (trans): 0.9904 (0.9904)
+INFO - [[ 0.9641 -0.1537 -0.2164  0.1402]
+        [ 0.2036 -0.0946  0.9745 -0.7189]
+        [-0.1703 -0.9836 -0.06    1.0235]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (3, 0), inliers 23/23
+INFO - RMS (frobius): 2.8175 (2.8175) (deg): 145.2325 (145.2325) (trans): 1.2654 (1.2654)
+INFO - [[ 0.6035  0.6275 -0.4919  0.1085]
+        [-0.7961  0.439  -0.4166 -0.0269]
+        [-0.0455  0.6431  0.7645 -0.5359]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (3, 2), inliers 1/1
+INFO - RMS (frobius): 0.0000 (0.0000) (deg): 0.0000 (0.0000) (trans): 0.0000 (0.0000)
+INFO - [[-0.4989  0.4097 -0.7637  1.0264]
+        [-0.8517 -0.3948  0.3446 -0.2677]
+        [-0.1603  0.8224  0.5459 -0.8257]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Initialisation reprojection RMS=147199062880124576.000, n=8640, quantiles=[7.0670e-01 7.7310e+01 2.1618e+02 6.4885e+02 1.3682e+19]
+INFO - Beginning adjustments (3) enabled: {cameras=True, boards=False, camera_poses=True, board_poses=True, motion=True}, options: {'loss': 'linear', 'tolerance': 0.0001}
+INFO - Adjust_outliers 0: reprojection RMS=147199062880124576.000, n=8640, quantiles=[7.0670e-01 7.7310e+01 2.1618e+02 6.4885e+02 1.3682e+19]
+INFO - Rejecting 646 outliers with error > 3244.23 pixels, keeping 7994 / 8640 inliers, (92.52%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         1.6371e+09                                    7.26e+15
+INFO - 1              5         1.2220e+09      4.15e+08       5.12e+02       1.31e+15
+INFO - 2              7         1.0558e+09      1.66e+08       2.94e+02       9.86e+14
+INFO - 3              8         7.8552e+08      2.70e+08       6.12e+02       4.59e+14
+INFO - 4              9         4.1370e+08      3.72e+08       1.29e+03       1.34e+14
+INFO - 5             11         2.9407e+08      1.20e+08       6.45e+02       8.95e+13
+INFO - 6             12         1.6084e+08      1.33e+08       1.25e+03       4.42e+13
+INFO - 7             15         1.5294e+08      7.90e+06       1.44e+02       3.61e+13
+INFO - 8             17         1.4955e+08      3.39e+06       7.85e+01       3.17e+13
+INFO - 9             19         1.4800e+08      1.56e+06       3.85e+01       2.96e+13
+INFO - 10             20         1.4520e+08      2.80e+06       7.28e+01       1.56e+14
+INFO - 11             22         1.4393e+08      1.27e+06       3.43e+01       8.23e+13
+INFO - 12             23         1.4169e+08      2.24e+06       6.80e+01       3.90e+13
+INFO - 13             24         1.3826e+08      3.43e+06       1.12e+02       2.17e+13
+INFO - 14             25         1.3373e+08      4.53e+06       1.09e+02       3.22e+12
+INFO - 15             27         1.3255e+08      1.19e+06       2.05e+01       2.26e+12
+INFO - 16             31         1.3250e+08      4.93e+04       9.33e-01       1.66e+12
+INFO - 17             32         1.3240e+08      9.62e+04       1.74e+00       1.54e+12
+INFO - 18             33         1.3223e+08      1.67e+05       3.25e+00       4.58e+11
+INFO - 19             34         1.3191e+08      3.25e+05       5.35e+00       8.87e+11
+INFO - 20             35         1.3137e+08      5.35e+05       8.65e+00       1.11e+13
+INFO - 21             39         1.3136e+08      1.64e+04       2.57e-01       1.70e+13
+INFO - 22             40         1.3133e+08      2.83e+04       6.68e-01       1.81e+13
+INFO - 23             41         1.3128e+08      4.95e+04       1.11e+00       1.05e+13
+INFO - 24             43         1.3126e+08      1.90e+04       4.22e-01       3.36e+13
+INFO - 25             44         1.3123e+08      2.91e+04       4.11e-01       1.72e+13
+INFO - 26             45         1.3118e+08      5.28e+04       8.91e-01       1.61e+13
+INFO - 27             46         1.3107e+08      1.03e+05       1.48e+00       1.81e+13
+INFO - 28             47         1.3088e+08      1.93e+05       2.70e+00       1.13e+13
+INFO - 29             49         1.3079e+08      8.91e+04       9.95e-01       3.15e+13
+INFO - 30             50         1.3062e+08      1.70e+05       2.71e+00       9.45e+12
+INFO - 31             52         1.3054e+08      8.50e+04       8.58e-01       2.58e+13
+INFO - 32             53         1.3040e+08      1.33e+05       2.34e+00       7.43e+12
+INFO - 33             55         1.3032e+08      8.83e+04       6.89e-01       1.94e+13
+INFO - 34             56         1.3017e+08      1.47e+05       1.85e+00       8.93e+12
+INFO - 35             58         1.3013e+08      3.55e+04       4.75e-01       2.17e+13
+INFO - 36             59         1.3003e+08      1.05e+05       6.92e-01       1.21e+13
+INFO - 37             61         1.2999e+08      4.13e+04       2.91e-01       2.00e+13
+INFO - 38             62         1.2992e+08      7.17e+04       6.11e-01       1.47e+13
+INFO - 39             64         1.2988e+08      3.42e+04       2.91e-01       2.50e+13
+INFO - 40             65         1.2983e+08      5.62e+04       4.57e-01       1.05e+13
+INFO - 41             66         1.2976e+08      6.75e+04       3.79e-01       3.69e+13
+INFO - 42             67         1.2962e+08      1.34e+05       9.83e-01       1.15e+13
+INFO - 43             69         1.2956e+08      6.47e+04       5.90e-01       4.04e+13
+INFO - 44             70         1.2942e+08      1.41e+05       6.82e-01       1.32e+13
+INFO - 45             72         1.2935e+08      6.55e+04       8.75e-01       3.76e+13
+INFO - 46             73         1.2922e+08      1.36e+05       6.20e-01       1.30e+13
+INFO - 47             75         1.2915e+08      7.02e+04       8.15e-01       3.40e+13
+INFO - 48             76         1.2902e+08      1.31e+05       6.79e-01       1.25e+13
+INFO - 49             77         1.2900e+08      1.94e+04       1.11e+00       3.53e+14
+INFO - 50             78         1.2875e+08      2.51e+05       5.33e-01       1.07e+14
+INFO - 51             79         1.2859e+08      1.61e+05       1.13e+00       3.82e+13
+INFO - 52             80         1.2835e+08      2.34e+05       1.52e+00       1.92e+13
+INFO - 53             81         1.2791e+08      4.38e+05       1.74e+00       1.70e+13
+INFO - 54             82         1.2713e+08      7.78e+05       2.49e+00       1.80e+13
+INFO - 55             84         1.2661e+08      5.28e+05       1.30e+00       2.48e+13
+INFO - 56             85         1.2582e+08      7.88e+05       4.54e+00       1.75e+13
+INFO - 57             87         1.2556e+08      2.55e+05       6.87e+00       4.71e+13
+INFO - 58             88         1.2510e+08      4.61e+05       5.36e+00       1.84e+13
+INFO - 59             89         1.2456e+08      5.46e+05       6.06e+00       1.96e+14
+INFO - 60             90         1.2334e+08      1.21e+06       5.05e+00       7.06e+13
+INFO - 61             91         1.2160e+08      1.74e+06       7.91e+00       1.65e+14
+INFO - 62             94         1.2117e+08      4.29e+05       5.49e+00       1.20e+14
+INFO - 63             95         1.2045e+08      7.16e+05       1.54e+01       3.48e+13
+INFO - 64             97         1.2010e+08      3.49e+05       5.06e+00       1.34e+14
+INFO - 65             98         1.1953e+08      5.71e+05       4.73e+00       3.18e+13
+INFO - 66             99         1.1850e+08      1.03e+06       9.40e+00       1.93e+14
+INFO - 67             100        1.1671e+08      1.79e+06       5.98e+00       4.25e+13
+INFO - The maximum number of function evaluations is exceeded.
+INFO - Function evaluations 100, initial cost 1.6371e+09, final cost 1.1671e+08, first-order optimality 4.25e+13.
+INFO - Adjust_outliers 1: reprojection RMS=170.876 (47777647371051648.000), n=7994 (8640), quantiles=[2.4216e+00 7.1706e+01 1.1822e+02 1.9602e+02 4.4410e+18]
+INFO - Rejecting 179 outliers with error > 980.11 pixels, keeping 8461 / 8640 inliers, (97.93%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         1.5220e+08                                    4.40e+14
+INFO - 1              8         1.5017e+08      2.03e+06       5.05e+00       3.08e+14
+INFO - 2              9         1.4665e+08      3.51e+06       1.13e+01       1.55e+14
+INFO - 3             10         1.4111e+08      5.55e+06       2.55e+01       9.63e+13
+INFO - 4             11         1.3306e+08      8.05e+06       5.48e+01       1.27e+14
+INFO - 5             13         1.3000e+08      3.06e+06       2.70e+01       3.08e+13
+INFO - 6             14         1.2558e+08      4.42e+06       5.37e+01       1.95e+13
+INFO - 7             17         1.2514e+08      4.37e+05       6.24e+00       3.11e+13
+INFO - 8             18         1.2435e+08      7.87e+05       1.24e+01       3.54e+13
+INFO - 9             19         1.2306e+08      1.30e+06       2.19e+01       3.03e+13
+INFO - 10             20         1.2113e+08      1.93e+06       2.79e+01       1.56e+13
+INFO - 11             24         1.2110e+08      3.01e+04       4.72e-01       3.83e+13
+INFO - 12             25         1.2105e+08      5.21e+04       4.45e-01       3.47e+13
+INFO - 13             26         1.2096e+08      9.36e+04       9.73e-01       3.75e+13
+INFO - 14             27         1.2078e+08      1.81e+05       1.86e+00       4.36e+13
+INFO - 15             28         1.2043e+08      3.46e+05       3.18e+00       4.86e+13
+INFO - 16             29         1.1979e+08      6.39e+05       4.87e+00       5.64e+13
+INFO - 17             30         1.1909e+08      7.00e+05       6.90e+00       2.99e+14
+INFO - 18             31         1.1805e+08      1.04e+06       6.03e+00       1.04e+14
+INFO - 19             33         1.1770e+08      3.57e+05       1.59e+00       1.10e+14
+INFO - 20             34         1.1728e+08      4.14e+05       3.84e+00       7.90e+13
+INFO - 21             36         1.1707e+08      2.14e+05       1.81e+00       1.03e+14
+INFO - 22             38         1.1697e+08      1.04e+05       1.12e+00       6.70e+13
+INFO - 23             39         1.1677e+08      1.92e+05       2.11e+00       7.54e+13
+INFO - 24             41         1.1668e+08      8.95e+04       9.53e-01       7.66e+13
+INFO - 25             42         1.1653e+08      1.56e+05       1.67e+00       7.48e+13
+INFO - 26             44         1.1643e+08      1.00e+05       7.42e-01       7.34e+13
+INFO - 27             45         1.1629e+08      1.39e+05       1.54e+00       7.14e+13
+INFO - 28             46         1.1614e+08      1.45e+05       1.32e+00       6.98e+13
+INFO - 29             47         1.1594e+08      2.02e+05       1.15e+00       7.02e+13
+INFO - 30             48         1.1562e+08      3.21e+05       2.49e+00       6.66e+13
+INFO - 31             49         1.1525e+08      3.68e+05       3.75e+00       5.56e+13
+INFO - 32             50         1.1449e+08      7.67e+05       3.95e+00       7.02e+13
+INFO - 33             52         1.1419e+08      2.97e+05       2.06e+00       6.21e+13
+INFO - 34             53         1.1369e+08      4.94e+05       5.69e+00       5.93e+13
+INFO - 35             54         1.1295e+08      7.42e+05       6.53e+00       7.27e+13
+INFO - 36             56         1.1242e+08      5.33e+05       3.44e+00       5.81e+13
+INFO - 37             58         1.1217e+08      2.52e+05       4.63e+00       6.90e+13
+INFO - 38             59         1.1179e+08      3.80e+05       4.70e+00       5.46e+13
+INFO - 39             61         1.1151e+08      2.77e+05       2.66e+00       5.22e+13
+INFO - 40             62         1.1111e+08      4.01e+05       4.48e+00       4.77e+13
+INFO - 41             63         1.1047e+08      6.44e+05       6.83e+00       6.47e+13
+INFO - 42             65         1.1011e+08      3.56e+05       3.04e+00       5.89e+13
+INFO - 43             66         1.0943e+08      6.76e+05       6.38e+00       4.72e+13
+INFO - 44             68         1.0916e+08      2.75e+05       2.25e+00       5.65e+13
+INFO - 45             70         1.0896e+08      2.03e+05       3.60e+00       3.77e+13
+INFO - 46             71         1.0857e+08      3.92e+05       5.02e+00       5.19e+13
+INFO - 47             73         1.0832e+08      2.41e+05       3.16e+00       3.90e+13
+INFO - 48             74         1.0801e+08      3.15e+05       7.23e+00       1.31e+14
+INFO - 49             75         1.0747e+08      5.43e+05       8.57e+00       4.27e+13
+INFO - 50             77         1.0728e+08      1.83e+05       2.10e+00       6.59e+13
+INFO - 51             78         1.0693e+08      3.57e+05       3.79e+00       5.81e+13
+INFO - 52             79         1.0625e+08      6.80e+05       6.60e+00       5.73e+13
+INFO - 53             81         1.0598e+08      2.62e+05       2.81e+00       3.86e+13
+INFO - 54             82         1.0546e+08      5.20e+05       6.72e+00       5.75e+13
+INFO - 55             83         1.0491e+08      5.55e+05       5.14e+00       3.85e+13
+INFO - 56             84         1.0399e+08      9.24e+05       6.17e+00       5.77e+13
+INFO - 57             86         1.0352e+08      4.65e+05       2.37e+00       3.27e+13
+INFO - 58             87         1.0262e+08      8.98e+05       5.42e+00       3.84e+13
+INFO - 59             88         1.0130e+08      1.33e+06       6.56e+00       4.30e+13
+INFO - 60             90         1.0039e+08      9.07e+05       5.15e+00       1.21e+14
+INFO - 61             92         9.9871e+07      5.17e+05       3.07e+00       8.68e+13
+INFO - 62             93         9.9165e+07      7.06e+05       9.82e+00       7.68e+14
+INFO - 63             94         9.8505e+07      6.61e+05       1.95e+01       5.46e+14
+INFO - 64             96         9.7017e+07      1.49e+06       8.10e+00       4.55e+14
+INFO - 65             97         9.6356e+07      6.61e+05       8.30e+00       3.57e+14
+INFO - 66             99         9.6078e+07      2.78e+05       1.70e+00       6.90e+14
+INFO - 67             100        9.5605e+07      4.73e+05       4.21e+00       1.79e+14
+INFO - The maximum number of function evaluations is exceeded.
+INFO - Function evaluations 100, initial cost 1.5220e+08, final cost 9.5605e+07, first-order optimality 1.79e+14.
+INFO - Adjust_outliers 2: reprojection RMS=150.330 (135367554674064097280.000), n=8461 (8640), quantiles=[1.0218e+00 6.0153e+01 9.6937e+01 1.5488e+02 1.2583e+22]
+INFO - Rejecting 116 outliers with error > 774.40 pixels, keeping 8524 / 8640 inliers, (98.66%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         9.8326e+07                                    1.95e+14
+INFO - 1              8         9.8296e+07      3.04e+04       2.35e+00       1.21e+14
+INFO - 2              9         9.8099e+07      1.97e+05       4.01e-01       1.00e+14
+INFO - 3             10         9.7768e+07      3.31e+05       8.97e-01       6.99e+13
+INFO - 4             12         9.7629e+07      1.38e+05       4.70e-01       5.84e+13
+INFO - 5             13         9.7388e+07      2.42e+05       1.00e+00       4.11e+13
+INFO - 6             14         9.7024e+07      3.64e+05       2.22e+00       6.07e+13
+INFO - 7             16         9.6873e+07      1.51e+05       1.05e+00       6.60e+13
+INFO - 8             17         9.6633e+07      2.41e+05       2.51e+00       7.52e+13
+INFO - 9             19         9.6520e+07      1.13e+05       1.12e+00       7.68e+13
+INFO - 10             20         9.6318e+07      2.02e+05       2.13e+00       8.13e+13
+INFO - 11             21         9.5989e+07      3.29e+05       3.51e+00       9.90e+13
+INFO - 12             22         9.5645e+07      3.44e+05       4.98e+00       2.39e+14
+INFO - 13             23         9.5249e+07      3.96e+05       4.04e+00       1.25e+14
+INFO - 14             25         9.5077e+07      1.72e+05       9.73e-01       1.14e+14
+INFO - 15             26         9.4825e+07      2.52e+05       2.20e+00       9.49e+13
+INFO - 16             27         9.4510e+07      3.15e+05       3.70e+00       1.03e+14
+INFO - 17             28         9.4384e+07      1.26e+05       4.14e+00       4.52e+13
+INFO - 18             29         9.3944e+07      4.40e+05       1.28e+00       2.93e+13
+INFO - 19             30         9.3655e+07      2.89e+05       2.86e+00       1.23e+14
+INFO - 20             31         9.3129e+07      5.26e+05       2.93e+00       1.01e+14
+INFO - 21             32         9.2277e+07      8.51e+05       4.69e+00       1.88e+14
+INFO - 22             34         9.1933e+07      3.44e+05       2.42e+00       3.42e+14
+INFO - 23             35         9.1257e+07      6.76e+05       4.61e+00       6.32e+14
+INFO - 24             37         9.0750e+07      5.07e+05       1.92e+00       5.83e+14
+INFO - 25             38         9.0282e+07      4.68e+05       2.92e+00       5.21e+14
+INFO - 26             39         8.9561e+07      7.21e+05       3.17e+00       4.81e+14
+INFO - 27             41         8.9278e+07      2.83e+05       1.37e+00       8.48e+14
+INFO - 28             42         8.8622e+07      6.56e+05       2.80e+00       3.02e+14
+INFO - 29             43         8.7599e+07      1.02e+06       4.03e+00       1.54e+15
+INFO - 30             45         8.7224e+07      3.75e+05       1.13e+00       4.79e+14
+INFO - 31             47         8.6980e+07      2.43e+05       1.86e+00       1.08e+15
+INFO - 32             48         8.6583e+07      3.97e+05       2.61e+00       1.54e+14
+INFO - 33             49         8.5445e+07      1.14e+06       6.50e+00       5.72e+14
+INFO - 34             51         8.5145e+07      3.00e+05       1.58e+00       9.19e+14
+INFO - 35             52         8.4512e+07      6.33e+05       2.80e+00       9.19e+14
+INFO - 36             54         8.4235e+07      2.77e+05       1.32e+00       6.73e+14
+INFO - 37             55         8.3783e+07      4.52e+05       2.43e+00       9.25e+14
+INFO - 38             57         8.3510e+07      2.73e+05       1.44e+00       7.51e+14
+INFO - 39             58         8.3050e+07      4.60e+05       2.65e+00       1.05e+15
+INFO - 40             59         8.2387e+07      6.63e+05       5.73e+00       5.62e+14
+INFO - 41             60         8.1720e+07      6.67e+05       1.18e+01       2.31e+15
+INFO - 42             62         8.0673e+07      1.05e+06       4.61e+00       1.43e+15
+INFO - 43             63         8.0576e+07      9.76e+04       6.11e+00       2.35e+15
+INFO - 44             64         8.0467e+07      1.09e+05       1.35e+01       1.78e+15
+INFO - 45             65         7.9765e+07      7.02e+05       1.93e+00       1.08e+15
+INFO - 46             66         7.9642e+07      1.23e+05       2.89e-01       1.74e+14
+INFO - 47             67         7.9557e+07      8.44e+04       5.65e-01       5.22e+14
+INFO - 48             68         7.9448e+07      1.09e+05       1.37e+00       1.46e+13
+INFO - 49             69         7.9274e+07      1.74e+05       2.93e+00       3.98e+14
+INFO - 50             70         7.9123e+07      1.51e+05       3.97e+00       7.77e+13
+INFO - 51             71         7.9030e+07      9.33e+04       6.43e+00       1.40e+14
+INFO - 52             72         7.8988e+07      4.23e+04       4.09e+00       1.64e+14
+INFO - 53             73         7.8609e+07      3.79e+05       1.34e+00       1.06e+14
+INFO - 54             74         7.8548e+07      6.09e+04       2.67e-01       9.13e+13
+INFO - 55             75         7.8502e+07      4.63e+04       3.33e-01       7.24e+13
+INFO - 56             76         7.8435e+07      6.70e+04       1.11e+00       1.09e+14
+INFO - 57             77         7.8339e+07      9.58e+04       1.80e+00       6.00e+13
+INFO - 58             78         7.8203e+07      1.36e+05       2.61e+00       4.24e+13
+INFO - 59             79         7.8058e+07      1.44e+05       4.51e+00       5.28e+14
+INFO - 60             81         7.7888e+07      1.70e+05       1.57e+00       5.26e+14
+INFO - 61             82         7.7674e+07      2.14e+05       3.64e+00       1.95e+14
+INFO - 62             84         7.7570e+07      1.04e+05       1.53e+00       5.05e+14
+INFO - 63             85         7.7419e+07      1.51e+05       3.29e+00       7.02e+13
+INFO - 64             86         7.7295e+07      1.24e+05       5.71e+00       2.09e+14
+INFO - 65             88         7.7077e+07      2.18e+05       1.69e+00       4.17e+13
+INFO - 66             89         7.7006e+07      7.10e+04       3.44e+00       2.86e+14
+INFO - 67             91         7.6877e+07      1.30e+05       9.63e-01       4.15e+13
+INFO - 68             93         7.6832e+07      4.50e+04       4.95e-01       1.11e+14
+INFO - 69             94         7.6774e+07      5.83e+04       8.78e-01       5.92e+13
+INFO - 70             95         7.6722e+07      5.16e+04       1.50e+00       5.43e+13
+INFO - 71             96         7.6628e+07      9.38e+04       2.50e+00       1.02e+14
+INFO - 72             97         7.6514e+07      1.15e+05       3.68e+00       1.07e+15
+INFO - 73             98         7.6416e+07      9.75e+04       9.05e+00       2.48e+15
+INFO - 74             100        7.6105e+07      3.12e+05       3.55e+00       2.32e+15
+INFO - The maximum number of function evaluations is exceeded.
+INFO - Function evaluations 100, initial cost 9.8326e+07, final cost 7.6105e+07, first-order optimality 2.32e+15.
+INFO - Adjust_outliers end: reprojection RMS=133.628 (153395107222462396366848.000), n=8524 (8640), quantiles=[1.2504e+00 5.4949e+01 8.8002e+01 1.3923e+02 1.3604e+25]
+INFO - Exporting calibration to .\calibration.json
+INFO - Dumping state and history to .\calibration.pkl
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera3', 'camera4', 'camera5'] with 62 matching images
+INFO - Loading images..
+INFO - Loaded 248 images
+INFO - {'camera0': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 3848, cameras: {'camera0': 445, 'camera3': 1897, 'camera4': 393, 'camera5': 1113}, Boards: {'charuco': 3848}
+INFO - Cameras set...
+INFO - camera0 Camera {'dist': array([[-0.0266,  0.    , -0.2573, -0.0037, -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 13.5013,   0.    , 881.489 ],
+              [  0.    ,   0.    , 766.2547],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - camera3 Camera {'dist': array([[-0.0362, -0.0018,  0.0107, -0.0011,  0.0001]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[477.309 ,   0.    , 986.1051],
+              [  0.    ,  -0.0027, 758.0172],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - camera4 Camera {'dist': array([[-0.0156,  0.0001,  0.0059, -0.0072, -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 44.3877,   0.    , 933.9115],
+              [  0.    ,  15.1455, 716.7685],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - camera5 Camera {'dist': array([[-0.0108,  0.    ,  0.0081, -0.0009,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[289.8926,   0.    , 910.5642],
+              [  0.    ,  14.542 , 721.5326],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 63, cameras: {'camera0': 5, 'camera3': 36, 'camera4': 3, 'camera5': 19}, Boards: {'charuco': 63}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.   0.  20.]
+        [  0.   0.  23. 434.]
+        [  0.  23.   0.   0.]
+        [ 20. 434.   0.   0.]]
+INFO - Selected master 1 and pairs [(1, 3), (1, 2), (3, 0)]
+INFO - Estimate transform axis=0, pair (1, 3), inliers 12/13
+INFO - RMS (frobius): 2.4733 (13.5361) (deg): 128.1964 (128.2986) (trans): 0.2131 (13.1948)
+INFO - [[ 0.6944 -0.1404  0.7057 -0.0102]
+        [-0.133   0.9389  0.3176  0.1017]
+        [-0.7072 -0.3144  0.6333  0.0898]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (1, 2), inliers 1/1
+INFO - RMS (frobius): 0.0000 (0.0000) (deg): 0.0000 (0.0000) (trans): 0.0000 (0.0000)
+INFO - [[-0.7184 -0.6117 -0.3314  0.5039]
+        [-0.2926 -0.1666  0.9416 -0.4043]
+        [-0.6312  0.7734 -0.0593  0.123 ]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (3, 0), inliers 1/1
+INFO - RMS (frobius): 0.0000 (0.0000) (deg): 0.0000 (0.0000) (trans): 0.0000 (0.0000)
+INFO - [[-0.1907  0.9698 -0.1523 -0.1292]
+        [-0.7918 -0.2437 -0.5601  0.115 ]
+        [-0.5803  0.0138  0.8143  0.0116]
+        [ 0.      0.      0.      1.    ]]
+INFO - Camera initialisation vs. supplied calibration
+INFO - camera 0: frobius 0.0000, rotation (deg): 0.0000, translation: 0.0000
+INFO - camera 1: frobius 2.6217, rotation (deg): 123.9088, translation: 0.7577
+INFO - camera 2: frobius 2.4597, rotation (deg): 114.0122, translation: 0.8712
+INFO - camera 3: frobius 0.9612, rotation (deg): 34.7369, translation: 0.5561
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Initialisation reprojection RMS=77606958866642754417144756306527939198976.000, n=3543, quantiles=[3.8544e+00 7.8735e+01 1.2478e+02 2.0523e+02 4.6194e+42]
+INFO - Beginning adjustments (3) enabled: {cameras=False, boards=False, camera_poses=False, board_poses=True, motion=True}, options: {'loss': 'linear', 'tolerance': 0.0001}
+INFO - Adjust_outliers 0: reprojection RMS=77606958866642754417144756306527939198976.000, n=3543, quantiles=[3.8544e+00 7.8735e+01 1.2478e+02 2.0523e+02 4.6194e+42]
+INFO - Rejecting 59 outliers with error > 1026.14 pixels, keeping 3484 / 3543 inliers, (98.33%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         6.8068e+07                                    1.36e+10
+INFO - 1              7         6.6044e+07      2.02e+06       1.55e+00       7.92e+09
+INFO - 2              8         6.3673e+07      2.37e+06       1.38e+00       3.44e+09
+INFO - 3             10         6.2921e+07      7.52e+05       6.32e-01       3.51e+09
+INFO - 4             11         6.2015e+07      9.07e+05       9.30e-01       2.42e+09
+INFO - 5             12         6.1000e+07      1.01e+06       1.74e+00       1.28e+09
+INFO - 6             14         6.0628e+07      3.72e+05       8.01e-01       6.68e+08
+INFO - 7             15         6.0094e+07      5.35e+05       1.71e+00       3.19e+08
+INFO - 8             16         5.9249e+07      8.45e+05       1.11e+00       1.57e+08
+INFO - 9             17         5.8189e+07      1.06e+06       1.24e+00       3.28e+08
+INFO - 10             18         5.7591e+07      5.98e+05       8.81e-01       7.33e+08
+INFO - 11             20         5.6214e+07      1.38e+06       6.85e-01       3.94e+08
+INFO - 12             22         5.5915e+07      2.99e+05       3.17e-01       3.41e+08
+INFO - 13             23         5.5503e+07      4.12e+05       3.79e-01       4.15e+08
+INFO - 14             24         5.4989e+07      5.14e+05       3.57e-01       5.15e+08
+INFO - 15             26         5.4781e+07      2.07e+05       9.59e-01       1.44e+09
+INFO - 16             27         5.4338e+07      4.44e+05       1.31e+00       5.58e+08
+INFO - 17             28         5.3674e+07      6.64e+05       3.17e+00       5.29e+08
+INFO - 18             30         5.3410e+07      2.64e+05       1.19e+00       4.40e+08
+INFO - 19             31         5.3402e+07      8.47e+03       1.48e+00       1.71e+12
+INFO - 20             33         5.2776e+07      6.26e+05       1.24e-01       2.51e+11
+INFO - 21             34         5.2547e+07      2.29e+05       2.07e-01       3.89e+10
+INFO - 22             35         5.2305e+07      2.42e+05       3.35e-01       2.53e+10
+INFO - 23             36         5.1915e+07      3.90e+05       4.03e-01       1.07e+10
+INFO - 24             37         5.1462e+07      4.53e+05       1.30e+00       6.92e+09
+INFO - 25             38         5.1015e+07      4.48e+05       3.52e+00       5.50e+09
+INFO - 26             42         5.0871e+07      1.44e+05       1.90e-01       9.27e+09
+INFO - 27             43         5.0691e+07      1.80e+05       8.11e-01       3.38e+09
+INFO - 28             44         5.0637e+07      5.44e+04       1.77e-01       2.52e+09
+INFO - 29             45         5.0548e+07      8.82e+04       4.60e-01       1.39e+09
+INFO - 30             46         5.0408e+07      1.40e+05       1.07e+00       2.31e+09
+INFO - 31             47         5.0214e+07      1.95e+05       1.57e+00       8.59e+08
+INFO - 32             48         4.9922e+07      2.92e+05       1.44e+00       4.05e+09
+INFO - 33             51         4.9845e+07      7.70e+04       1.33e-01       8.25e+08
+INFO - 34             52         4.9762e+07      8.31e+04       1.82e-01       5.62e+08
+INFO - 35             53         4.9647e+07      1.15e+05       4.55e-01       3.68e+09
+INFO - 36             55         4.9579e+07      6.80e+04       1.78e-01       3.88e+08
+INFO - 37             56         4.9472e+07      1.07e+05       3.54e-01       1.75e+09
+INFO - 38             57         4.9304e+07      1.69e+05       6.75e-01       1.94e+09
+INFO - 39             58         4.8994e+07      3.09e+05       1.09e+00       9.14e+09
+INFO - 40             59         4.8692e+07      3.02e+05       1.64e+00       8.22e+09
+INFO - 41             61         4.8352e+07      3.40e+05       4.26e+00       3.41e+09
+INFO - 42             62         4.8022e+07      3.31e+05       6.10e+00       1.90e+09
+INFO - 43             64         4.7873e+07      1.49e+05       8.21e-01       3.99e+09
+INFO - 44             65         4.7605e+07      2.68e+05       2.49e+00       5.11e+09
+INFO - 45             66         4.7287e+07      3.18e+05       6.17e+00       1.09e+10
+INFO - 46             68         4.7142e+07      1.45e+05       6.10e+00       2.02e+10
+INFO - 47             70         4.7058e+07      8.43e+04       2.38e+00       2.30e+10
+INFO - 48             72         4.7046e+07      1.23e+04       1.75e+00       3.05e+10
+INFO - 49             73         4.6960e+07      8.62e+04       2.49e+00       6.10e+09
+INFO - 50             74         4.6941e+07      1.88e+04       8.90e-01       6.29e+09
+INFO - 51             75         4.6922e+07      1.88e+04       2.83e-01       1.40e+09
+INFO - 52             77         4.6863e+07      5.91e+04       5.39e-02       5.00e+09
+INFO - 53             78         4.6839e+07      2.38e+04       4.59e-02       2.12e+09
+INFO - 54             79         4.6810e+07      2.92e+04       3.23e-02       5.26e+09
+INFO - 55             80         4.6767e+07      4.29e+04       7.07e-02       3.57e+09
+INFO - 56             81         4.6716e+07      5.14e+04       1.64e-01       5.79e+09
+INFO - 57             82         4.6633e+07      8.28e+04       2.99e-01       4.67e+09
+INFO - 58             83         4.6555e+07      7.74e+04       6.06e-01       2.12e+11
+INFO - 59             84         4.6306e+07      2.49e+05       4.35e-01       2.99e+10
+INFO - 60             87         4.6144e+07      1.62e+05       2.51e-02       2.59e+10
+INFO - 61             88         4.6054e+07      8.98e+04       6.16e-02       1.24e+10
+INFO - 62             89         4.6003e+07      5.18e+04       1.00e-01       7.40e+09
+INFO - 63             90         4.5918e+07      8.47e+04       2.21e-01       9.36e+09
+INFO - 64             91         4.5754e+07      1.64e+05       4.56e-01       8.83e+09
+INFO - 65             92         4.5433e+07      3.21e+05       9.71e-01       3.37e+10
+INFO - 66             93         4.4794e+07      6.39e+05       2.53e+00       4.40e+10
+INFO - 67             95         4.4491e+07      3.03e+05       1.64e+00       7.00e+10
+INFO - 68             97         4.4389e+07      1.02e+05       4.34e+00       5.49e+10
+INFO - 69             98         4.4176e+07      2.13e+05       2.32e+01       1.04e+11
+INFO - 70             100        4.4176e+07      0.00e+00       0.00e+00       1.04e+11
+INFO - The maximum number of function evaluations is exceeded.
+INFO - Function evaluations 100, initial cost 6.8068e+07, final cost 4.4176e+07, first-order optimality 1.04e+11.
+INFO - Adjust_outliers 1: reprojection RMS=159.247 (114095975.624), n=3484 (3543), quantiles=[4.6724e-01 6.6611e+01 1.0704e+02 1.6793e+02 5.7440e+09]
+INFO - Rejecting 28 outliers with error > 839.65 pixels, keeping 3515 / 3543 inliers, (99.21%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         4.5732e+07                                    1.04e+11
+INFO - 1              3         4.5369e+07      3.63e+05       1.20e+02       1.17e+12
+INFO - 2              6         4.5146e+07      2.23e+05       1.01e+00       4.45e+11
+INFO - 3              7         4.5010e+07      1.36e+05       6.55e+00       1.67e+11
+INFO - 4              8         4.4935e+07      7.57e+04       9.05e+00       8.74e+10
+INFO - 5             11         4.4906e+07      2.84e+04       2.69e-01       1.93e+11
+INFO - 6             13         4.4895e+07      1.12e+04       2.65e-01       8.17e+10
+INFO - 7             15         4.4891e+07      4.44e+03       1.20e-01       2.62e+10
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 15, initial cost 4.5732e+07, final cost 4.4891e+07, first-order optimality 2.62e+10.
+INFO - Adjust_outliers 2: reprojection RMS=159.820 (4607484581324.167), n=3515 (3543), quantiles=[4.8277e-01 6.5840e+01 1.0588e+02 1.6749e+02 2.7425e+14]
+INFO - Rejecting 28 outliers with error > 837.47 pixels, keeping 3515 / 3543 inliers, (99.21%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         4.4891e+07                                    2.62e+10
+INFO - 1              9         4.4890e+07      4.44e+02       1.89e-01       1.77e+10
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 9, initial cost 4.4891e+07, final cost 4.4890e+07, first-order optimality 1.77e+10.
+INFO - Adjust_outliers end: reprojection RMS=159.819 (3769665194652.602), n=3515 (3543), quantiles=[4.8277e-01 6.5854e+01 1.0586e+02 1.6749e+02 2.2438e+14]
+INFO - Exporting calibration to .\calibration.json
+INFO - Dumping state and history to .\calibration.pkl
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera1', 'camera2', 'camera3', 'camera4', 'camera5'] with 122 matching images
+INFO - Loading images..
+INFO - Loaded 732 images
+INFO - {'camera0': (1920, 1200), 'camera1': (1920, 1200), 'camera2': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 4183, cameras: {'camera0': 1133, 'camera1': 277, 'camera2': 9, 'camera3': 1650, 'camera4': 476, 'camera5': 638}, Boards: {'charuco': 4183}
+INFO - Using boards:
+INFO - charuco CharucoBoard {type='charuco', aruco_dict='4X4_1000', aruco_offset=0, size=(16, 22), num_ids=176, marker_length=0.0375, square_length=0.05, aruco_params={'adaptiveThreshWinSizeMax': 200, 'adaptiveThreshWinSizeStep': 50}}
+INFO - Found camera directories ['camera0', 'camera1', 'camera3', 'camera4', 'camera5'] with 122 matching images
+INFO - Loading images..
+INFO - Loaded 610 images
+INFO - {'camera0': (1920, 1200), 'camera1': (1920, 1200), 'camera3': (1920, 1200), 'camera4': (1920, 1200), 'camera5': (1920, 1200)}
+INFO - Config changed, not using loaded detections in .\calibration.detections.pkl
+INFO - Detecting boards..
+INFO - Writing detection cache to .\calibration.detections.pkl
+INFO - Detected point counts:
+INFO - Total: 4174, cameras: {'camera0': 1133, 'camera1': 277, 'camera3': 1650, 'camera4': 476, 'camera5': 638}, Boards: {'charuco': 4174}
+INFO - Calibrating single cameras..
+INFO - Calibrated camera0, with RMS=185.99
+INFO - Camera {'dist': array([[-0.001 , -0.    ,  0.    ,  0.0028, -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[ 62.5731,   0.    , 959.5   ],
+              [  0.    , 706.2295, 599.5   ],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Calibrated camera1, with RMS=61.39
+INFO - Camera {'dist': array([[    634.6775, -110047.141 ,       3.0963,       6.0951,
+                  -531.1875]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[8754.0615,    0.    , 1175.8723],
+              [   0.    , 7011.7213,  659.4345],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera3, with RMS=51.92
+INFO - Camera {'dist': array([[ 0.0924,  0.8748, -0.1577, -0.182 , 15.621 ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[2315.4353,    0.    ,  957.0931],
+              [   0.    ,  455.3778,  601.6571],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera4, with RMS=77.37
+INFO - Camera {'dist': array([[-0.0303, -0.0001,  0.0179, -0.0011,  0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[2318.8655,    0.    ,  966.6408],
+              [   0.    ,  103.2418,  458.2568],
+              [   0.    ,    0.    ,    1.    ]])}
+INFO - 
+INFO - Calibrated camera5, with RMS=68.70
+INFO - Camera {'dist': array([[ 0.0009, -0.    ,  0.0072, -0.0042, -0.    ]]),
+        'image_size': (1920, 1200),
+        'intrinsic': array([[310.3169,   0.    , 959.4282],
+              [  0.    ,  26.9366, 622.152 ],
+              [  0.    ,   0.    ,   1.    ]])}
+INFO - 
+INFO - Pose counts:
+INFO - Total: 77, cameras: {'camera0': 16, 'camera1': 6, 'camera3': 33, 'camera4': 8, 'camera5': 14}, Boards: {'charuco': 77}
+INFO - Overlaps by camera:
+INFO - [[  0.   0.  56.  22.   0.]
+        [  0.   0.   0.   0.   0.]
+        [ 56.   0.   0.   0. 259.]
+        [ 22.   0.   0.   0.   0.]
+        [  0.   0. 259.   0.   0.]]
+INFO - Selected master 2 and pairs [(2, 4), (2, 0), (0, 3)]
+INFO - Estimate transform axis=0, pair (2, 4), inliers 10/10
+INFO - RMS (frobius): 2.8926 (2.8926) (deg): 107.4138 (107.4138) (trans): 2.1311 (2.1311)
+INFO - [[ 0.8048 -0.509  -0.3053 -0.0899]
+        [ 0.5841  0.7708  0.2543 -0.3904]
+        [ 0.1059 -0.383   0.9177 -0.2467]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (2, 0), inliers 2/2
+INFO - RMS (frobius): 2.4123 (2.4123) (deg): 59.7489 (59.7489) (trans): 1.6167 (1.6167)
+INFO - [[-0.0648  0.8423  0.5351 -0.0519]
+        [-0.9944 -0.0996  0.0363 -0.0147]
+        [ 0.0838 -0.5297  0.844  -0.1042]
+        [ 0.      0.      0.      1.    ]]
+INFO - Estimate transform axis=0, pair (0, 3), inliers 1/1
+INFO - RMS (frobius): 0.0000 (0.0000) (deg): 0.0000 (0.0000) (trans): 0.0000 (0.0000)
+INFO - [[-0.0903 -0.9764  0.196  -0.0026]
+        [-0.3983 -0.145  -0.9057  0.151 ]
+        [ 0.9128 -0.1598 -0.3758  0.0595]
+        [ 0.      0.      0.      1.    ]]
+INFO - Overlaps by board:
+INFO - [[0.]]
+INFO - Selected master 0 and pairs []
+INFO - Initialisation reprojection RMS=27367849508966.863, n=3553, quantiles=[7.9774e-01 3.9009e+01 8.3580e+01 1.9456e+02 1.6312e+15]
+INFO - Beginning adjustments (3) enabled: {cameras=True, boards=False, camera_poses=True, board_poses=True, motion=True}, options: {'loss': 'linear', 'tolerance': 0.0001}
+INFO - Adjust_outliers 0: reprojection RMS=27367849508966.863, n=3553, quantiles=[7.9774e-01 3.9009e+01 8.3580e+01 1.9456e+02 1.6312e+15]
+INFO - Rejecting 219 outliers with error > 972.81 pixels, keeping 3334 / 3553 inliers, (93.84%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         5.3934e+07                                    2.61e+13
+INFO - 1              4         4.4895e+07      9.04e+06       2.76e+02       7.92e+14
+INFO - 2              6         3.7888e+07      7.01e+06       2.58e+02       1.58e+15
+INFO - 3              8         3.4060e+07      3.83e+06       1.59e+02       2.23e+14
+INFO - 4             10         3.2860e+07      1.20e+06       9.43e+01       2.14e+13
+INFO - 5             11         3.1907e+07      9.52e+05       1.53e+02       5.06e+14
+INFO - 6             12         3.1033e+07      8.74e+05       8.06e+01       5.29e+14
+INFO - 7             14         3.0735e+07      2.98e+05       4.09e+01       5.71e+14
+INFO - 8             16         3.0525e+07      2.10e+05       3.11e+01       1.39e+13
+INFO - 9             20         3.0495e+07      3.02e+04       7.00e-01       1.88e+14
+INFO - 10             21         3.0460e+07      3.47e+04       2.80e+00       5.01e+14
+INFO - 11             22         3.0415e+07      4.52e+04       8.34e+00       4.04e+14
+INFO - 12             23         3.0340e+07      7.51e+04       1.85e+01       2.26e+14
+INFO - 13             24         3.0263e+07      7.69e+04       2.45e+01       2.65e+13
+INFO - 14             25         3.0154e+07      1.10e+05       2.92e+01       4.58e+14
+INFO - 15             26         2.9999e+07      1.55e+05       3.49e+01       2.21e+14
+INFO - 16             27         2.9813e+07      1.85e+05       5.08e+01       7.53e+14
+INFO - 17             28         2.9752e+07      6.14e+04       1.01e+02       1.88e+15
+INFO - 18             29         2.9411e+07      3.41e+05       1.34e+02       1.79e+15
+INFO - 19             30         2.9182e+07      2.30e+05       8.59e+01       1.16e+14
+INFO - 20             31         2.9042e+07      1.39e+05       8.83e+01       4.72e+14
+INFO - 21             32         2.8917e+07      1.25e+05       7.81e+01       1.12e+14
+INFO - 22             33         2.8795e+07      1.22e+05       6.55e+01       1.23e+14
+INFO - 23             35         2.8750e+07      4.53e+04       1.58e+01       1.75e+14
+INFO - 24             36         2.8702e+07      4.79e+04       3.90e+01       1.85e+14
+INFO - 25             37         2.8580e+07      1.22e+05       6.49e+01       3.90e+13
+INFO - 26             38         2.8508e+07      7.24e+04       4.72e+01       5.48e+13
+INFO - 27             39         2.8421e+07      8.70e+04       9.75e+01       2.70e+15
+INFO - 28             40         2.8192e+07      2.29e+05       1.71e+02       2.67e+15
+INFO - 29             42         2.8114e+07      7.75e+04       5.61e+01       3.45e+15
+INFO - 30             43         2.7977e+07      1.37e+05       1.55e+02       3.80e+15
+INFO - 31             45         2.7938e+07      3.85e+04       4.94e+01       5.16e+15
+INFO - 32             46         2.7875e+07      6.30e+04       1.41e+02       3.62e+15
+INFO - 33             48         2.7850e+07      2.56e+04       3.01e+01       5.80e+15
+INFO - 34             49         2.7785e+07      6.48e+04       5.27e+01       1.20e+16
+INFO - 35             50         2.7739e+07      4.53e+04       8.55e+01       8.89e+14
+INFO - 36             51         2.7697e+07      4.22e+04       6.81e+01       1.70e+15
+INFO - 37             53         2.7683e+07      1.45e+04       1.40e+01       3.07e+15
+INFO - 38             54         2.7653e+07      3.03e+04       4.26e+01       2.21e+15
+INFO - 39             56         2.7636e+07      1.64e+04       2.02e+01       4.29e+15
+INFO - 40             57         2.7612e+07      2.46e+04       3.76e+01       2.86e+15
+INFO - 41             59         2.7595e+07      1.61e+04       2.11e+01       4.64e+15
+INFO - 42             60         2.7583e+07      1.26e+04       3.72e+01       6.97e+15
+INFO - 43             62         2.7566e+07      1.67e+04       2.99e+01       6.49e+15
+INFO - 44             63         2.7553e+07      1.34e+04       4.15e+01       5.66e+15
+INFO - 45             64         2.7550e+07      2.36e+03       4.24e+01       5.14e+15
+INFO - 46             65         2.7536e+07      1.41e+04       5.25e+00       2.53e+15
+INFO - 47             66         2.7533e+07      3.72e+03       1.00e+01       1.50e+15
+INFO - 48             67         2.7525e+07      7.53e+03       1.50e+01       7.87e+14
+INFO - 49             68         2.7514e+07      1.09e+04       7.29e+00       2.47e+14
+INFO - 50             69         2.7498e+07      1.59e+04       9.34e+00       8.20e+14
+INFO - 51             70         2.7467e+07      3.14e+04       2.17e+01       3.38e+15
+INFO - 52             72         2.7440e+07      2.65e+04       1.44e+01       1.87e+15
+INFO - 53             73         2.7411e+07      2.90e+04       1.78e+01       1.99e+15
+INFO - 54             74         2.7403e+07      8.63e+03       3.53e+01       1.13e+16
+INFO - 55             76         2.7348e+07      5.49e+04       2.25e+01       6.03e+15
+INFO - 56             77         2.7335e+07      1.23e+04       2.18e+01       7.62e+14
+INFO - 57             78         2.7324e+07      1.14e+04       6.37e+00       5.76e+15
+INFO - 58             80         2.7317e+07      7.07e+03       5.82e+00       4.23e+15
+INFO - 59             82         2.7314e+07      2.70e+03       4.81e+00       6.90e+15
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 82, initial cost 5.3934e+07, final cost 2.7314e+07, first-order optimality 6.90e+15.
+INFO - Adjust_outliers 1: reprojection RMS=128.005 (471772127392954.375), n=3334 (3553), quantiles=[1.0938e+00 4.0228e+01 7.4592e+01 1.4509e+02 2.8121e+16]
+INFO - Rejecting 126 outliers with error > 725.44 pixels, keeping 3427 / 3553 inliers, (96.45%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         3.1772e+07                                    6.90e+15
+INFO - 1              5         3.1290e+07      4.81e+05       8.13e+01       2.76e+15
+INFO - 2              7         3.0856e+07      4.34e+05       1.46e+02       1.21e+16
+INFO - 3              8         3.0473e+07      3.83e+05       1.96e+02       5.55e+15
+INFO - 4             10         3.0403e+07      6.99e+04       2.29e+01       2.30e+16
+INFO - 5             11         3.0248e+07      1.55e+05       1.11e+02       7.95e+15
+INFO - 6             12         3.0112e+07      1.36e+05       2.10e+01       9.62e+15
+INFO - 7             13         3.0001e+07      1.11e+05       2.92e+01       1.64e+16
+INFO - 8             15         2.9957e+07      4.36e+04       6.66e+00       2.22e+16
+INFO - 9             16         2.9898e+07      5.96e+04       3.85e+01       1.96e+16
+INFO - 10             18         2.9856e+07      4.20e+04       2.01e+00       8.43e+15
+INFO - 11             19         2.9834e+07      2.19e+04       2.54e+00       7.98e+15
+INFO - 12             20         2.9812e+07      2.22e+04       6.72e+00       7.05e+15
+INFO - 13             21         2.9790e+07      2.16e+04       8.91e+00       4.63e+15
+INFO - 14             22         2.9766e+07      2.43e+04       1.40e+01       8.61e+15
+INFO - 15             23         2.9721e+07      4.46e+04       1.33e+01       4.73e+15
+INFO - 16             24         2.9677e+07      4.39e+04       2.25e+01       1.07e+16
+INFO - 17             26         2.9648e+07      2.90e+04       1.07e+01       5.30e+15
+INFO - 18             27         2.9620e+07      2.85e+04       2.01e+01       1.62e+16
+INFO - 19             28         2.9613e+07      6.59e+03       1.80e+01       1.82e+16
+INFO - 20             29         2.9597e+07      1.61e+04       9.10e+00       3.26e+16
+INFO - 21             30         2.9561e+07      3.63e+04       1.44e-01       1.22e+16
+INFO - 22             31         2.9547e+07      1.38e+04       2.02e+00       5.08e+15
+INFO - 23             32         2.9537e+07      1.01e+04       4.50e+00       1.52e+15
+INFO - 24             33         2.9519e+07      1.75e+04       1.00e+01       5.54e+15
+INFO - 25             34         2.9504e+07      1.52e+04       1.63e+01       1.77e+15
+INFO - 26             35         2.9478e+07      2.65e+04       1.68e+01       7.10e+15
+INFO - 27             37         2.9467e+07      1.04e+04       7.55e+00       1.78e+15
+INFO - 28             38         2.9441e+07      2.63e+04       1.92e+01       5.13e+15
+INFO - 29             40         2.9434e+07      6.70e+03       5.13e+00       1.60e+15
+INFO - 30             41         2.9414e+07      2.01e+04       1.57e+01       2.84e+15
+INFO - 31             43         2.9409e+07      5.29e+03       4.68e+00       9.18e+14
+INFO - 32             44         2.9395e+07      1.41e+04       8.34e+00       2.03e+15
+INFO - 33             45         2.9375e+07      1.95e+04       1.60e+01       2.62e+14
+INFO - 34             46         2.9348e+07      2.75e+04       1.91e+01       6.54e+14
+INFO - 35             47         2.9344e+07      3.93e+03       1.44e+01       3.52e+14
+INFO - 36             48         2.9289e+07      5.45e+04       1.67e+01       1.31e+16
+INFO - 37             50         2.9281e+07      8.39e+03       7.62e+00       8.39e+15
+INFO - 38             51         2.9260e+07      2.03e+04       8.54e+00       4.66e+15
+INFO - 39             52         2.9252e+07      8.14e+03       1.73e+01       1.62e+16
+INFO - 40             53         2.9250e+07      2.72e+03       1.68e+01       2.48e+16
+INFO - 41             54         2.9248e+07      1.70e+03       7.96e+00       3.92e+16
+INFO - 42             55         2.9217e+07      3.08e+04       2.24e-01       1.15e+16
+INFO - 43             56         2.9209e+07      7.65e+03       1.76e+00       2.65e+15
+INFO - 44             57         2.9204e+07      5.06e+03       3.78e+00       7.90e+14
+INFO - 45             58         2.9202e+07      2.07e+03       6.60e+00       6.87e+13
+INFO - 46             59         2.9197e+07      5.47e+03       9.75e-01       7.24e+14
+INFO - 47             60         2.9194e+07      3.23e+03       1.95e+00       3.02e+14
+INFO - 48             61         2.9189e+07      4.87e+03       5.02e+00       6.26e+14
+INFO - 49             62         2.9179e+07      9.82e+03       8.55e+00       1.89e+14
+INFO - 50             63         2.9157e+07      2.24e+04       1.38e+01       1.68e+14
+INFO - 51             64         2.9126e+07      3.01e+04       3.08e+01       3.19e+15
+INFO - 52             65         2.9102e+07      2.48e+04       2.06e+01       1.43e+16
+INFO - 53             67         2.9082e+07      1.99e+04       1.60e+01       2.87e+15
+INFO - 54             68         2.9067e+07      1.46e+04       3.40e+01       1.90e+16
+INFO - 55             70         2.9054e+07      1.37e+04       9.62e+00       1.40e+16
+INFO - 56             71         2.9038e+07      1.56e+04       1.19e+01       3.65e+15
+INFO - 57             72         2.9034e+07      4.41e+03       1.34e+01       1.58e+16
+INFO - 58             73         2.9026e+07      7.17e+03       1.97e+01       1.88e+16
+INFO - 59             75         2.9019e+07      7.26e+03       4.13e+00       5.34e+15
+INFO - 60             76         2.9006e+07      1.27e+04       5.79e+00       4.50e+15
+INFO - 61             77         2.9001e+07      5.65e+03       7.67e+00       6.28e+15
+INFO - 62             78         2.8990e+07      1.05e+04       6.47e+00       4.99e+15
+INFO - 63             79         2.8982e+07      8.60e+03       1.43e+01       1.20e+16
+INFO - 64             81         2.8974e+07      7.63e+03       4.52e+00       4.84e+15
+INFO - 65             82         2.8970e+07      4.15e+03       4.05e+00       3.45e+15
+INFO - 66             83         2.8965e+07      5.38e+03       8.85e+00       2.04e+15
+INFO - 67             84         2.8956e+07      8.34e+03       8.77e+00       1.17e+15
+INFO - 68             85         2.8945e+07      1.16e+04       4.44e+00       7.94e+14
+INFO - 69             86         2.8926e+07      1.87e+04       6.56e+00       7.77e+15
+INFO - 70             89         2.8923e+07      2.72e+03       7.00e-01       7.12e+14
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 89, initial cost 3.1772e+07, final cost 2.8923e+07, first-order optimality 7.12e+14.
+INFO - Adjust_outliers 2: reprojection RMS=129.921 (6835485104.783), n=3427 (3553), quantiles=[6.3632e-01 3.8896e+01 7.4611e+01 1.3885e+02 3.7321e+11]
+INFO - Rejecting 96 outliers with error > 694.23 pixels, keeping 3457 / 3553 inliers, (97.30%)
+INFO - Iteration     Total nfev        Cost      Cost reduction    Step norm     Optimality
+INFO - 0              1         3.0654e+07                                    7.12e+14
+INFO - 1              7         3.0484e+07      1.70e+05       4.44e+00       8.83e+14
+INFO - 2              8         3.0303e+07      1.81e+05       1.25e+01       7.07e+14
+INFO - 3              9         3.0150e+07      1.54e+05       1.35e+01       5.45e+14
+INFO - 4             10         3.0009e+07      1.40e+05       1.32e+01       1.34e+15
+INFO - 5             11         2.9989e+07      2.01e+04       1.67e+01       1.53e+16
+INFO - 6             12         2.9917e+07      7.25e+04       1.61e+01       2.12e+16
+INFO - 7             13         2.9839e+07      7.76e+04       1.16e+01       1.03e+16
+INFO - 8             15         2.9817e+07      2.21e+04       2.35e+00       3.32e+16
+INFO - 9             16         2.9800e+07      1.65e+04       8.79e+00       1.40e+16
+INFO - 10             17         2.9774e+07      2.60e+04       9.13e+00       1.24e+16
+INFO - 11             19         2.9749e+07      2.57e+04       1.21e+00       8.29e+15
+INFO - 12             20         2.9734e+07      1.45e+04       2.10e+00       2.78e+15
+INFO - 13             21         2.9726e+07      8.33e+03       2.71e+00       1.32e+15
+INFO - 14             22         2.9714e+07      1.20e+04       6.71e+00       2.74e+15
+INFO - 15             23         2.9698e+07      1.58e+04       1.01e+01       2.14e+15
+INFO - 16             25         2.9689e+07      9.05e+03       4.83e+00       3.05e+15
+INFO - 17             26         2.9678e+07      1.16e+04       8.98e+00       1.83e+15
+INFO - 18             28         2.9671e+07      6.42e+03       2.23e+00       3.32e+15
+INFO - 19             29         2.9664e+07      7.10e+03       2.10e+00       6.69e+14
+INFO - 20             30         2.9658e+07      5.73e+03       7.25e+00       1.71e+15
+INFO - 21             31         2.9648e+07      9.93e+03       2.91e+00       1.10e+15
+INFO - 22             33         2.9644e+07      4.46e+03       2.67e+00       1.19e+15
+INFO - 23             35         2.9642e+07      2.15e+03       2.45e-01       9.82e+14
+INFO - `ftol` termination condition is satisfied.
+INFO - Function evaluations 35, initial cost 3.0654e+07, final cost 2.9642e+07, first-order optimality 9.82e+14.
+INFO - Adjust_outliers end: reprojection RMS=130.954 (1733341206.648), n=3457 (3553), quantiles=[7.8464e-01 3.9442e+01 7.4745e+01 1.3778e+02 9.5604e+10]
+INFO - Exporting calibration to .\calibration.json
+INFO - Dumping state and history to .\calibration.pkl

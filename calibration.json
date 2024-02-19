@@ -1,0 +1,1125 @@
+{
+  "cameras": {
+    "camera0": {
+      "model": "standard",
+      "image_size": [
+        1920,
+        1200
+      ],
+      "K": [
+        [
+          2.860095905798181,
+          0.0,
+          1002.9464387892715
+        ],
+        [
+          0.0,
+          62.95909566946121,
+          658.5656944753376
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dist": [
+        [
+          0.013149382060438768,
+          -4.230924715242894e-06,
+          -0.0029712731328189637,
+          -0.08226388686548051,
+          2.758199712451403e-10
+        ]
+      ]
+    },
+    "camera1": {
+      "model": "standard",
+      "image_size": [
+        1920,
+        1200
+      ],
+      "K": [
+        [
+          8754.06149790336,
+          0.0,
+          1175.8723482421417
+        ],
+        [
+          0.0,
+          7011.721300749704,
+          659.434454646591
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dist": [
+        [
+          634.6774791172561,
+          -110047.14100070292,
+          3.0962996303975787,
+          6.095078837473688,
+          -531.1875419252299
+        ]
+      ]
+    },
+    "camera3": {
+      "model": "standard",
+      "image_size": [
+        1920,
+        1200
+      ],
+      "K": [
+        [
+          2498.416584058926,
+          0.0,
+          1246.441438088783
+        ],
+        [
+          0.0,
+          83.63381222672454,
+          570.4071029040344
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dist": [
+        [
+          1.5708837460082725,
+          -1.2171358973474125,
+          0.1659285025889438,
+          -0.0034024445649170065,
+          0.23247443677622606
+        ]
+      ]
+    },
+    "camera4": {
+      "model": "standard",
+      "image_size": [
+        1920,
+        1200
+      ],
+      "K": [
+        [
+          3500.9760495887103,
+          0.0,
+          936.1355073395038
+        ],
+        [
+          0.0,
+          31.9097792901608,
+          621.5419425937037
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dist": [
+        [
+          -0.05434296456649343,
+          -2.308674571135733e-05,
+          0.028693365702853125,
+          -0.0003060435936998403,
+          3.9226100464609525e-06
+        ]
+      ]
+    },
+    "camera5": {
+      "model": "standard",
+      "image_size": [
+        1920,
+        1200
+      ],
+      "K": [
+        [
+          63.36570421000883,
+          0.0,
+          948.7860264904406
+        ],
+        [
+          0.0,
+          45.19680312168654,
+          592.5486218604289
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "dist": [
+        [
+          -0.015047591048708519,
+          6.926348908611697e-05,
+          0.008482485937651404,
+          -0.00010926281127644122,
+          -5.129557438607062e-08
+        ]
+      ]
+    }
+  },
+  "camera_poses": {
+    "camera0": {
+      "R": [
+        [
+          1.0,
+          5.239533055596461e-36,
+          0.0
+        ],
+        [
+          -3.1760904155266645e-36,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          0.0,
+          1.0
+        ]
+      ],
+      "T": [
+        0.0,
+        0.0,
+        0.0
+      ]
+    },
+    "camera3_to_camera0": {
+      "R": [
+        [
+          -0.08061435816334139,
+          -0.9896771307054166,
+          0.11849262515703764
+        ],
+        [
+          0.840935758602883,
+          -0.13135029781273183,
+          -0.5249515684017912
+        ],
+        [
+          0.5350966035781822,
+          0.05732605187173065,
+          0.8428436086344213
+        ]
+      ],
+      "T": [
+        -0.025637450169225362,
+        0.015055647078448735,
+        0.14967678785476085
+      ]
+    },
+    "camera4_to_camera0": {
+      "R": [
+        [
+          -0.06637020498569422,
+          -0.9623411586899577,
+          0.26361807635560003
+        ],
+        [
+          -0.3498517829171864,
+          -0.22498393164837574,
+          -0.9093876843732298
+        ],
+        [
+          0.934451029150176,
+          -0.15258350104552262,
+          -0.3217445404802825
+        ]
+      ],
+      "T": [
+        -0.004648959373100513,
+        0.14138262602435264,
+        0.08110770481609385
+      ]
+    },
+    "camera5_to_camera0": {
+      "R": [
+        [
+          -0.49721750663440945,
+          -0.8669487320933142,
+          0.03427312384443037
+        ],
+        [
+          0.8657687456152526,
+          -0.49834917973390425,
+          -0.045744662796185435
+        ],
+        [
+          0.05673826056597954,
+          0.006927552261757544,
+          0.9983650528777576
+        ]
+      ],
+      "T": [
+        -0.1485214066469796,
+        -0.3437828809137223,
+        -0.13574838636433617
+      ]
+    }
+  },
+  "image_sets": {
+    "rgb": [
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000000.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000000.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000000.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000000.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000000.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000015.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000015.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000015.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000015.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000015.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000030.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000030.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000030.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000030.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000030.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000045.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000045.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000045.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000045.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000045.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000060.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000060.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000060.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000060.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000060.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000075.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000075.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000075.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000075.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000075.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000090.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000090.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000090.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000090.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000090.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000105.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000105.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000105.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000105.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000105.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000120.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000120.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000120.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000120.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000120.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000135.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000135.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000135.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000135.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000135.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000150.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000150.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000150.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000150.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000150.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000165.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000165.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000165.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000165.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000165.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000180.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000180.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000180.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000180.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000180.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000195.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000195.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000195.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000195.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000195.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000210.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000210.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000210.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000210.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000210.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000225.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000225.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000225.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000225.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000225.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000240.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000240.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000240.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000240.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000240.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000255.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000255.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000255.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000255.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000255.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000270.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000270.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000270.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000270.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000270.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000285.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000285.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000285.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000285.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000285.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000300.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000300.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000300.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000300.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000300.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000315.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000315.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000315.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000315.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000315.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000330.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000330.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000330.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000330.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000330.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000345.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000345.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000345.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000345.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000345.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000360.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000360.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000360.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000360.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000360.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000375.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000375.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000375.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000375.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000375.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000390.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000390.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000390.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000390.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000390.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000405.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000405.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000405.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000405.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000405.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000420.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000420.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000420.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000420.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000420.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000435.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000435.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000435.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000435.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000435.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000450.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000450.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000450.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000450.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000450.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000465.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000465.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000465.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000465.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000465.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000480.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000480.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000480.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000480.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000480.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000495.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000495.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000495.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000495.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000495.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000510.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000510.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000510.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000510.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000510.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000525.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000525.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000525.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000525.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000525.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000540.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000540.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000540.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000540.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000540.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000555.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000555.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000555.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000555.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000555.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000570.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000570.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000570.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000570.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000570.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000585.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000585.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000585.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000585.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000585.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000600.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000600.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000600.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000600.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000600.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000615.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000615.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000615.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000615.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000615.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000630.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000630.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000630.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000630.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000630.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000645.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000645.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000645.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000645.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000645.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000660.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000660.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000660.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000660.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000660.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000675.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000675.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000675.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000675.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000675.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000690.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000690.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000690.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000690.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000690.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000705.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000705.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000705.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000705.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000705.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000720.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000720.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000720.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000720.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000720.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000735.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000735.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000735.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000735.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000735.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000750.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000750.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000750.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000750.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000750.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000765.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000765.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000765.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000765.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000765.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000780.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000780.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000780.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000780.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000780.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000795.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000795.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000795.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000795.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000795.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000810.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000810.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000810.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000810.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000810.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000825.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000825.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000825.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000825.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000825.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000840.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000840.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000840.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000840.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000840.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000855.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000855.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000855.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000855.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000855.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000870.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000870.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000870.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000870.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000870.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000885.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000885.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000885.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000885.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000885.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000900.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000900.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000900.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000900.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000900.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000915.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000915.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000915.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000915.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000915.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000930.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000930.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000930.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000930.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000930.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000945.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000945.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000945.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000945.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000945.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000960.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000960.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000960.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000960.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000960.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000975.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000975.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000975.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000975.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000975.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00000990.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00000990.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00000990.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00000990.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00000990.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001005.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001005.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001005.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001005.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001005.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001020.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001020.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001020.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001020.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001020.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001035.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001035.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001035.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001035.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001035.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001050.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001050.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001050.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001050.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001050.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001065.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001065.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001065.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001065.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001065.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001080.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001080.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001080.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001080.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001080.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001095.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001095.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001095.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001095.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001095.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001110.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001110.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001110.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001110.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001110.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001125.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001125.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001125.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001125.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001125.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001140.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001140.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001140.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001140.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001140.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001155.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001155.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001155.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001155.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001155.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001170.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001170.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001170.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001170.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001170.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001185.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001185.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001185.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001185.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001185.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001200.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001200.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001200.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001200.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001200.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001215.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001215.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001215.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001215.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001215.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001230.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001230.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001230.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001230.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001230.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001245.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001245.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001245.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001245.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001245.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001260.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001260.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001260.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001260.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001260.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001275.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001275.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001275.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001275.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001275.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001290.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001290.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001290.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001290.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001290.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001305.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001305.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001305.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001305.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001305.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001320.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001320.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001320.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001320.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001320.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001335.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001335.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001335.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001335.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001335.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001350.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001350.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001350.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001350.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001350.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001365.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001365.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001365.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001365.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001365.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001380.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001380.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001380.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001380.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001380.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001395.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001395.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001395.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001395.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001395.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001410.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001410.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001410.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001410.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001410.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001425.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001425.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001425.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001425.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001425.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001440.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001440.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001440.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001440.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001440.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001455.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001455.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001455.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001455.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001455.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001470.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001470.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001470.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001470.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001470.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001485.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001485.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001485.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001485.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001485.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001500.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001500.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001500.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001500.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001500.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001515.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001515.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001515.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001515.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001515.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001530.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001530.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001530.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001530.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001530.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001545.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001545.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001545.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001545.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001545.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001560.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001560.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001560.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001560.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001560.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001575.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001575.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001575.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001575.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001575.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001590.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001590.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001590.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001590.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001590.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001605.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001605.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001605.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001605.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001605.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001620.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001620.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001620.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001620.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001620.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001635.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001635.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001635.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001635.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001635.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001650.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001650.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001650.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001650.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001650.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001665.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001665.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001665.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001665.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001665.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001680.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001680.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001680.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001680.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001680.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001695.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001695.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001695.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001695.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001695.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001710.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001710.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001710.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001710.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001710.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001725.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001725.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001725.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001725.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001725.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001740.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001740.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001740.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001740.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001740.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001755.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001755.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001755.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001755.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001755.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001770.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001770.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001770.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001770.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001770.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001785.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001785.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001785.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001785.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001785.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001800.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001800.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001800.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001800.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001800.jpg"
+      },
+      {
+        "camera0": "C:\\Users/oussa/Downloads/extracted_frames/camera0\\00001815.jpg",
+        "camera1": "C:\\Users/oussa/Downloads/extracted_frames/camera1\\00001815.jpg",
+        "camera3": "C:\\Users/oussa/Downloads/extracted_frames/camera3\\00001815.jpg",
+        "camera4": "C:\\Users/oussa/Downloads/extracted_frames/camera4\\00001815.jpg",
+        "camera5": "C:\\Users/oussa/Downloads/extracted_frames/camera5\\00001815.jpg"
+      }
+    ]
+  }
+}
